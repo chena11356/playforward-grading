@@ -1,5 +1,12 @@
 import sys
 import json
+import os
+
+#### Variables to update before running
+# LOGDIRECTORY: the location on your local machine of the log files, relative to current directory
+LOGDIRECTORY = '../../../../Downloads/Playforward/aggregate data 2'
+# PRINT_ACTIONS: if True, add list of actions to final data. If False, don't.
+PRINT_ACTIONS = True
 
 IDs = {
   200:	'Player enters Stack',
@@ -126,10 +133,6 @@ IDs = {
 def finalResults(line):
   resultAsStr = ','.join(line[4:])
   resultAsJSON = json.loads(resultAsStr)
-  # Potentially useful info
-  # * Game time (milliseconds???)
-  # * Star ratings --> max 3 stars???
-  # * Skill points --> range??
   gameTime = resultAsJSON["gameTime"]
   miniGameStarsSkillPoints = []
   for miniGame in resultAsJSON["minigames"]:
@@ -138,23 +141,58 @@ def finalResults(line):
     for savedData in miniGame["levelSaveData"]:
       maxStars = max(maxStars, savedData["starRating"])
     miniGameStarsSkillPoints.append({'maxStars': maxStars, 'skillPoints': skillPoints})
+  return (gameTime, miniGameStarsSkillPoints)
 
-  print('-----------------\n\nRESULTS:')
-  print('game time: ', gameTime)
-  print(miniGameStarsSkillPoints)
+def combineData(newData, oldData):
+  oldData['gameTime'] = str(int(oldData['gameTime']) + int(newData['gameTime']))
+  if (oldData['miniGames'] != None):
+    oldData['miniGames'] = oldData['miniGames'].extend(newData['miniGames'])
+  else: 
+    oldData['miniGames'] = newData['miniGames']
+  if (PRINT_ACTIONS):
+    if (oldData['miniGames'] != None):
+      oldData['actions'] = oldData['actions'].extend(newData['actions'])
+    else: 
+      oldData['actions'] = newData['actions']
+  return oldData
 
-if (len(sys.argv) != 2):
-  print('Incorrect # of arguments')
-  sys.exit()
+overallDataDict = {}
 
-f = open(sys.argv[1], "r")
+logList = os.listdir(LOGDIRECTORY)
+logList.remove('all2.txt')
+if '.DS_Store' in logList:
+  logList.remove('.DS_Store')
 
-for line in f:
-  csv = line.split(",")
-  if (int(csv[1]) in IDs):
-    print(IDs[int(csv[1])])
-    if (IDs[int(csv[1])] == 'Player ends session'):
-      finalResults(csv)
+for log in logList:
+  fRead = open(LOGDIRECTORY+'/'+log, "r")
+
+  logData = None
+  if PRINT_ACTIONS:
+    logData = {'actions': [], 'studentID': None, 'gameTime': '0', 'miniGames': []}
   else:
-    print('Unknown ID')
-f.close()
+    logData = {'studentID': None, 'gameTime': '0', 'miniGames': []}
+
+  for line in fRead:
+    csv = line.split(",")
+    if (int(csv[1]) in IDs):
+      if (logData['studentID'] == None):
+        logData['studentID'] = csv[0]
+      if (PRINT_ACTIONS):
+        logData['actions'].append(IDs[int(csv[1])])
+      if (IDs[int(csv[1])] == 'Player ends session'):
+        gameTime, miniGames = finalResults(csv)
+        logData['gameTime'] = gameTime
+        logData['miniGames'] = miniGames
+  fRead.close() 
+
+  if overallDataDict.has_key(logData['studentID']):
+    # Combine current log and existing log into one 
+    newData = combineData(logData, overallDataDict[logData['studentID']])
+    overallDataDict[logData['studentID']] = newData
+  else: 
+    overallDataDict[logData['studentID']] = logData
+
+fWrite = open('dataWithActions.txt', 'w+')
+for key in overallDataDict:
+  fWrite.write(str(overallDataDict[key])+'\n')
+fWrite.close()

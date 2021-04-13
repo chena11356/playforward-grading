@@ -1,0 +1,31 @@
+{'gameTime': '1062135', 'studentID': '3772', 'miniGames': None}
+{'gameTime': '10305932', 'studentID': '6427015', 'miniGames': []}
+{'gameTime': '11331628', 'studentID': '6427014', 'miniGames': [{'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 9, 'maxStars': 3}]}
+{'gameTime': '102479147', 'studentID': '6427011', 'miniGames': [{'skillPoints': 28, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 29, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
+{'gameTime': '5368743', 'studentID': '6427010', 'miniGames': None}
+{'gameTime': '165773642', 'studentID': '6427013', 'miniGames': [{'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 6, 'maxStars': 3}]}
+{'gameTime': '112595312', 'studentID': '6427012', 'miniGames': [{'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}]}
+{'gameTime': '94335754', 'studentID': '24', 'miniGames': []}
+{'gameTime': '82175626', 'studentID': '0', 'miniGames': None}
+{'gameTime': '1607859', 'studentID': '6', 'miniGames': None}
+{'gameTime': '36191537', 'studentID': '9', 'miniGames': [{'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 11, 'maxStars': 3}, {'skillPoints': 9, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}]}
+{'gameTime': '395263248', 'studentID': '6486010', 'miniGames': []}
+{'gameTime': '374822908', 'studentID': '6486011', 'miniGames': []}
+{'gameTime': '73410017', 'studentID': '6427008', 'miniGames': None}
+{'gameTime': '35484895', 'studentID': '6429001', 'miniGames': None}
+{'gameTime': '26030928', 'studentID': '6429002', 'miniGames': [{'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 7, 'maxStars': 3}, {'skillPoints': 7, 'maxStars': 3}, {'skillPoints': 9, 'maxStars': 3}]}
+{'gameTime': '117073283', 'studentID': '6429003', 'miniGames': [{'skillPoints': 21, 'maxStars': 3}, {'skillPoints': 21, 'maxStars': 3}, {'skillPoints': 23, 'maxStars': 3}, {'skillPoints': 24, 'maxStars': 3}, {'skillPoints': 27, 'maxStars': 3}]}
+{'gameTime': '216757859', 'studentID': '6427001', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
+{'gameTime': '193839100', 'studentID': '6427006', 'miniGames': None}
+{'gameTime': '172169786', 'studentID': '6427004', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
+{'gameTime': '57205303', 'studentID': '13', 'miniGames': None}
+{'gameTime': '13002936', 'studentID': '14', 'miniGames': [{'skillPoints': 26, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 15, 'maxStars': 3}]}
+{'gameTime': '138731266', 'studentID': '6486009', 'miniGames': None}
+{'gameTime': '347533269', 'studentID': '6486008', 'miniGames': [{'skillPoints': 10, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 15, 'maxStars': 3}, {'skillPoints': 13, 'maxStars': 3}, {'skillPoints': 16, 'maxStars': 3}]}
+{'gameTime': '294832880', 'studentID': '6486007', 'miniGames': None}
+{'gameTime': '137002205', 'studentID': '6486006', 'miniGames': None}
+{'gameTime': '111230858', 'studentID': '6486005', 'miniGames': [{'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 6, 'maxStars': 3}]}
+{'gameTime': '203698470', 'studentID': '6486004', 'miniGames': None}
+{'gameTime': '186903957', 'studentID': '6486003', 'miniGames': None}
+{'gameTime': '112406251', 'studentID': '6486002', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
+{'gameTime': '138851792', 'studentID': '6486001', 'miniGames': None}
