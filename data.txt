@@ -1,31 +1,90 @@
-{'gameTime': '1062135', 'studentID': '3772', 'miniGames': None}
-{'gameTime': '10305932', 'studentID': '6427015', 'miniGames': []}
-{'gameTime': '11331628', 'studentID': '6427014', 'miniGames': [{'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 9, 'maxStars': 3}]}
-{'gameTime': '102479147', 'studentID': '6427011', 'miniGames': [{'skillPoints': 28, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 29, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
-{'gameTime': '5368743', 'studentID': '6427010', 'miniGames': None}
-{'gameTime': '165773642', 'studentID': '6427013', 'miniGames': [{'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 6, 'maxStars': 3}]}
-{'gameTime': '112595312', 'studentID': '6427012', 'miniGames': [{'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 3, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}]}
-{'gameTime': '94335754', 'studentID': '24', 'miniGames': []}
-{'gameTime': '82175626', 'studentID': '0', 'miniGames': None}
-{'gameTime': '1607859', 'studentID': '6', 'miniGames': None}
-{'gameTime': '36191537', 'studentID': '9', 'miniGames': [{'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 11, 'maxStars': 3}, {'skillPoints': 9, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}]}
-{'gameTime': '395263248', 'studentID': '6486010', 'miniGames': []}
-{'gameTime': '374822908', 'studentID': '6486011', 'miniGames': []}
-{'gameTime': '73410017', 'studentID': '6427008', 'miniGames': None}
-{'gameTime': '35484895', 'studentID': '6429001', 'miniGames': None}
-{'gameTime': '26030928', 'studentID': '6429002', 'miniGames': [{'skillPoints': 5, 'maxStars': 3}, {'skillPoints': 6, 'maxStars': 3}, {'skillPoints': 7, 'maxStars': 3}, {'skillPoints': 7, 'maxStars': 3}, {'skillPoints': 9, 'maxStars': 3}]}
-{'gameTime': '117073283', 'studentID': '6429003', 'miniGames': [{'skillPoints': 21, 'maxStars': 3}, {'skillPoints': 21, 'maxStars': 3}, {'skillPoints': 23, 'maxStars': 3}, {'skillPoints': 24, 'maxStars': 3}, {'skillPoints': 27, 'maxStars': 3}]}
-{'gameTime': '216757859', 'studentID': '6427001', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
-{'gameTime': '193839100', 'studentID': '6427006', 'miniGames': None}
-{'gameTime': '172169786', 'studentID': '6427004', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
-{'gameTime': '57205303', 'studentID': '13', 'miniGames': None}
-{'gameTime': '13002936', 'studentID': '14', 'miniGames': [{'skillPoints': 26, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 15, 'maxStars': 3}]}
-{'gameTime': '138731266', 'studentID': '6486009', 'miniGames': None}
-{'gameTime': '347533269', 'studentID': '6486008', 'miniGames': [{'skillPoints': 10, 'maxStars': 3}, {'skillPoints': 12, 'maxStars': 3}, {'skillPoints': 15, 'maxStars': 3}, {'skillPoints': 13, 'maxStars': 3}, {'skillPoints': 16, 'maxStars': 3}]}
-{'gameTime': '294832880', 'studentID': '6486007', 'miniGames': None}
-{'gameTime': '137002205', 'studentID': '6486006', 'miniGames': None}
-{'gameTime': '111230858', 'studentID': '6486005', 'miniGames': [{'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 2, 'maxStars': 2}, {'skillPoints': 0, 'maxStars': 0}, {'skillPoints': 6, 'maxStars': 3}]}
-{'gameTime': '203698470', 'studentID': '6486004', 'miniGames': None}
-{'gameTime': '186903957', 'studentID': '6486003', 'miniGames': None}
-{'gameTime': '112406251', 'studentID': '6486002', 'miniGames': [{'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}, {'skillPoints': 30, 'maxStars': 3}]}
-{'gameTime': '138851792', 'studentID': '6486001', 'miniGames': None}
+{"studentID": "6546007", "age": 11, "gender": "male", "overallSkillPts": 27, "gameTime": 704277427, "miniGameStars": {"0": 54, "1": 0, "2": 0, "3": 186}}
+{"studentID": "6546013", "age": 11, "gender": "male", "overallSkillPts": 30, "gameTime": 659658731, "miniGameStars": {"0": 43, "1": 0, "2": 0, "3": 107}}
+{"studentID": "6486009", "age": 14, "gender": "female", "overallSkillPts": 30, "gameTime": 138731266, "miniGameStars": {"0": 30, "1": 1, "2": 0, "3": 49}}
+{"studentID": "6427016", "age": 14, "gender": "female", "overallSkillPts": 27, "gameTime": 191435045, "miniGameStars": {"0": 56, "1": 0, "2": 0, "3": 64}}
+{"studentID": "6427017", "age": 14, "gender": "male", "overallSkillPts": 27, "gameTime": 1804143465, "miniGameStars": {"0": 59, "1": 0, "2": 0, "3": 61}}
+{"studentID": "6486008", "age": 14, "gender": "female", "overallSkillPts": 27, "gameTime": 487920788, "miniGameStars": {"0": 57, "1": 3, "2": 0, "3": 110}}
+{"studentID": "6486020", "age": 12, "gender": "male", "overallSkillPts": 27, "gameTime": 174197419, "miniGameStars": {"0": 52, "1": 0, "2": 0, "3": 58}}
+{"studentID": "6546012", "age": 11, "gender": "female", "overallSkillPts": 24, "gameTime": 1865831861, "miniGameStars": {"0": 62, "1": 0, "2": 0, "3": 38}}
+{"studentID": "6546006", "age": 11, "gender": "female", "overallSkillPts": 27, "gameTime": 277348383, "miniGameStars": {"0": 66, "1": 0, "2": 0, "3": 64}}
+{"studentID": "6546010", "age": 12, "gender": "male", "overallSkillPts": 9, "gameTime": 58979999, "miniGameStars": {"0": 55, "1": 0, "2": 0, "3": 15}}
+{"studentID": "6546004", "age": 12, "gender": "female", "overallSkillPts": 27, "gameTime": 118957994, "miniGameStars": {"0": 44, "1": 0, "2": 0, "3": 46}}
+{"studentID": "6427029", "age": 11, "gender": "female", "overallSkillPts": 9, "gameTime": 46609472, "miniGameStars": {"0": 45, "1": 0, "2": 0, "3": 15}}
+{"studentID": "6427001", "age": 13, "gender": "male", "overallSkillPts": 30, "gameTime": 254432814, "miniGameStars": {"0": 24, "1": 0, "2": 0, "3": 86}}
+{"studentID": "6427015", "age": 14, "gender": "male", "overallSkillPts": 12, "gameTime": 10305932, "miniGameStars": {"0": 14, "1": 0, "2": 0, "3": 6}}
+{"studentID": "6427014", "age": 14, "gender": "female", "overallSkillPts": 9, "gameTime": 11331628, "miniGameStars": {"0": 15, "1": 0, "2": 0, "3": 5}}
+{"studentID": "6427028", "age": 12, "gender": "female", "overallSkillPts": 26, "gameTime": 352170482, "miniGameStars": {"0": 57, "1": 0, "2": 6, "3": 107}}
+{"studentID": "6546005", "age": 12, "gender": "male", "overallSkillPts": 24, "gameTime": 204414444, "miniGameStars": {"0": 60, "1": 0, "2": 0, "3": 50}}
+{"studentID": "6546011", "age": 11, "gender": "male", "overallSkillPts": 18, "gameTime": 83132816, "miniGameStars": {"0": 45, "1": 0, "2": 0, "3": 25}}
+{"studentID": "6546001", "age": 12, "gender": "male", "overallSkillPts": 27, "gameTime": 339228339, "miniGameStars": {"0": 58, "1": 0, "2": 0, "3": 92}}
+{"studentID": "6427004", "age": 13, "gender": "female", "overallSkillPts": 30, "gameTime": 224204828, "miniGameStars": {"0": 17, "1": 0, "2": 0, "3": 93}}
+{"studentID": "6427010", "age": 13, "gender": "male", "overallSkillPts": 6, "gameTime": 22392037, "miniGameStars": {"0": 56, "1": 0, "2": 0, "3": 14}}
+{"studentID": "6427038", "age": 11, "gender": "female", "overallSkillPts": 18, "gameTime": 216630533, "miniGameStars": {"0": 69, "1": 0, "2": 0, "3": 41}}
+{"studentID": "6429001", "age": 12, "gender": "male", "overallSkillPts": 12, "gameTime": 35484895, "miniGameStars": {"0": 29, "1": 0, "2": 0, "3": 11}}
+{"studentID": "6427039", "age": 12, "gender": "male", "overallSkillPts": 24, "gameTime": 37980576, "miniGameStars": {"0": 28, "1": 0, "2": 0, "3": 22}}
+{"studentID": "6427011", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 124854464, "miniGameStars": {"0": 18, "1": 0, "2": 0, "3": 62}}
+{"studentID": "6546011", "age": 11, "gender": "female", "overallSkillPts": 13, "gameTime": 5485160644, "miniGameStars": {"0": 162, "1": 1, "2": 0, "3": 47}}
+{"studentID": "6546002", "age": 12, "gender": "female", "overallSkillPts": 27, "gameTime": 263934562, "miniGameStars": {"0": 54, "1": 0, "2": 0, "3": 66}}
+{"studentID": "6486018", "age": 12, "gender": "male", "overallSkillPts": 30, "gameTime": 3380064320, "miniGameStars": {"0": 61, "1": 0, "2": 0, "3": 139}}
+{"studentID": "6427013", "age": 14, "gender": "male", "overallSkillPts": 27, "gameTime": 299765580, "miniGameStars": {"0": 59, "1": 0, "2": 0, "3": 131}}
+{"studentID": "6429002", "age": 14, "gender": "female", "overallSkillPts": 9, "gameTime": 53794257, "miniGameStars": {"0": 43, "1": 0, "2": 0, "3": 17}}
+{"studentID": "6429003", "age": 12, "gender": "female", "overallSkillPts": 27, "gameTime": 121036351, "miniGameStars": {"0": 33, "1": 0, "2": 0, "3": 47}}
+{"studentID": "6427006", "age": 13, "gender": "female", "overallSkillPts": 30, "gameTime": 193839100, "miniGameStars": {"0": 27, "1": 0, "2": 0, "3": 73}}
+{"studentID": "6427012", "age": 14, "gender": "female", "overallSkillPts": 30, "gameTime": 202294556, "miniGameStars": {"0": 15, "1": 0, "2": 0, "3": 95}}
+{"studentID": "6486019", "age": 13, "gender": "male", "overallSkillPts": 27, "gameTime": 6706146498, "miniGameStars": {"0": 53, "1": 0, "2": 0, "3": 87}}
+{"studentID": "6546003", "age": 12, "gender": "female", "overallSkillPts": 15, "gameTime": 42467720, "miniGameStars": {"0": 35, "1": 0, "2": 0, "3": 15}}
+{"studentID": "6566001", "age": 11, "gender": "female", "overallSkillPts": 27, "gameTime": 5173909919, "miniGameStars": {"0": 79, "1": 0, "2": 0, "3": 81}}
+{"studentID": "6566002", "age": 13, "gender": "female", "overallSkillPts": 27, "gameTime": 600237467, "miniGameStars": {"0": 100, "1": 0, "2": 0, "3": 140}}
+{"studentID": "6566003", "age": 13, "gender": "male", "overallSkillPts": 18, "gameTime": 135881852, "miniGameStars": {"0": 56, "1": 0, "2": 0, "3": 34}}
+{"studentID": "6566004", "age": 11, "gender": "female", "overallSkillPts": 21, "gameTime": 4474733663, "miniGameStars": {"0": 117, "1": 0, "2": 0, "3": 63}}
+{"studentID": "6566005", "age": 12, "gender": "male", "overallSkillPts": 27, "gameTime": 212083421, "miniGameStars": {"0": 71, "1": 0, "2": 0, "3": 59}}
+{"studentID": "6486014", "age": 14, "gender": "female", "overallSkillPts": 30, "gameTime": 228117311, "miniGameStars": {"0": 40, "1": 0, "2": 0, "3": 80}}
+{"studentID": "6506006", "age": 12, "gender": "male", "overallSkillPts": 27, "gameTime": 370627909, "miniGameStars": {"0": 39, "1": 0, "2": 0, "3": 101}}
+{"studentID": "6427037", "age": 12, "gender": "female", "overallSkillPts": 27, "gameTime": 201624258, "miniGameStars": {"0": 55, "1": 0, "2": 0, "3": 55}}
+{"studentID": "6427023", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 200335259, "miniGameStars": {"0": 31, "1": 0, "2": 0, "3": 79}}
+{"studentID": "6430006", "age": 12, "gender": "male", "overallSkillPts": 27, "gameTime": 187563965, "miniGameStars": {"0": 60, "1": 0, "2": 0, "3": 60}}
+{"studentID": "6427022", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 425439129, "miniGameStars": {"0": 39, "1": 0, "2": 0, "3": 131}}
+{"studentID": "6427036", "age": 11, "gender": "female", "overallSkillPts": 27, "gameTime": 207743056, "miniGameStars": {"0": 56, "1": 0, "2": 0, "3": 64}}
+{"studentID": "6506007", "age": 12, "gender": "male", "overallSkillPts": 30, "gameTime": 8141186525, "miniGameStars": {"0": 56, "1": 0, "2": 0, "3": 84}}
+{"studentID": "6486001", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 113658987, "miniGameStars": {"0": 29, "1": 0, "2": 0, "3": 51}}
+{"studentID": "6486015", "age": 13, "gender": "female", "overallSkillPts": 18, "gameTime": 2467367917, "miniGameStars": {"0": 85, "1": 0, "2": 0, "3": 35}}
+{"studentID": "6567002", "age": 14, "gender": "male", "overallSkillPts": 27, "gameTime": 77075392, "miniGameStars": {"0": 29, "1": 0, "2": 0, "3": 31}}
+{"studentID": "6486003", "age": 12, "gender": "female", "overallSkillPts": 30, "gameTime": 261454186, "miniGameStars": {"0": 40, "1": 0, "2": 0, "3": 80}}
+{"studentID": "6486017", "age": 13, "gender": "female", "overallSkillPts": 9, "gameTime": 17470297, "miniGameStars": {"0": 23, "1": 0, "2": 0, "3": 7}}
+{"studentID": "6506005", "age": 13, "gender": "female", "overallSkillPts": 30, "gameTime": 92005256, "miniGameStars": {"0": 31, "1": 0, "2": 0, "3": 49}}
+{"studentID": "6427008", "age": 13, "gender": "male", "overallSkillPts": 27, "gameTime": 129441284, "miniGameStars": {"0": 50, "1": 0, "2": 0, "3": 60}}
+{"studentID": "6427034", "age": 13, "gender": "male", "overallSkillPts": 18, "gameTime": 173496197, "miniGameStars": {"0": 64, "1": 0, "2": 0, "3": 36}}
+{"studentID": "6430004", "age": 11, "gender": "male", "overallSkillPts": 12, "gameTime": 139665543, "miniGameStars": {"0": 66, "1": 0, "2": 0, "3": 24}}
+{"studentID": "6427035", "age": 11, "gender": "female", "overallSkillPts": 27, "gameTime": 259778788, "miniGameStars": {"0": 53, "1": 0, "2": 0, "3": 67}}
+{"studentID": "6427021", "age": 13, "gender": "female", "overallSkillPts": 27, "gameTime": 231023993, "miniGameStars": {"0": 28, "1": 0, "2": 0, "3": 72}}
+{"studentID": "6506004", "age": 14, "gender": "female", "overallSkillPts": 30, "gameTime": 398076363, "miniGameStars": {"0": 40, "1": 0, "2": 0, "3": 140}}
+{"studentID": "6486016", "age": 13, "gender": "male", "overallSkillPts": 18, "gameTime": 31886662, "miniGameStars": {"0": 19, "1": 0, "2": 0, "3": 11}}
+{"studentID": "6486002", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 139013669, "miniGameStars": {"0": 25, "1": 0, "2": 0, "3": 55}}
+{"studentID": "6567001", "age": 12, "gender": "female", "overallSkillPts": 9, "gameTime": 3041398203, "miniGameStars": {"0": 47, "1": 0, "2": 0, "3": 13}}
+{"studentID": "6546008", "age": 12, "gender": "male", "overallSkillPts": 12, "gameTime": 225276017, "miniGameStars": {"0": 90, "1": 0, "2": 0, "3": 30}}
+{"studentID": "6486006", "age": 14, "gender": "female", "overallSkillPts": 27, "gameTime": 137002205, "miniGameStars": {"0": 35, "1": 0, "2": 0, "3": 45}}
+{"studentID": "6486012", "age": 12, "gender": "male", "overallSkillPts": 30, "gameTime": 235524451, "miniGameStars": {"0": 36, "1": 0, "2": 0, "3": 94}}
+{"studentID": "6427025", "age": 13, "gender": "male", "overallSkillPts": 18, "gameTime": 259528561, "miniGameStars": {"0": 82, "1": 0, "2": 0, "3": 58}}
+{"studentID": "6427031", "age": 11, "gender": "male", "overallSkillPts": 24, "gameTime": 596137704, "miniGameStars": {"0": 42, "1": 0, "2": 0, "3": 28}}
+{"studentID": "6427019", "age": 14, "gender": "male", "overallSkillPts": 30, "gameTime": 509572387, "miniGameStars": {"0": 12, "1": 0, "2": 0, "3": 28}}
+{"studentID": "6430001", "age": 12, "gender": "female", "overallSkillPts": 30, "gameTime": 147302511, "miniGameStars": {"0": 29, "1": 0, "2": 0, "3": 61}}
+{"studentID": "6427018", "age": 13, "gender": "male", "overallSkillPts": 27, "gameTime": 320950949, "miniGameStars": {"0": 107, "1": 0, "2": 0, "3": 73}}
+{"studentID": "6427030", "age": 11, "gender": "male", "overallSkillPts": 18, "gameTime": 291549691, "miniGameStars": {"0": 76, "1": 0, "2": 0, "3": 54}}
+{"studentID": "6427024", "age": 14, "gender": "male", "overallSkillPts": 27, "gameTime": 379452137, "miniGameStars": {"0": 51, "1": 0, "2": 0, "3": 99}}
+{"studentID": "6506001", "age": 11, "gender": "male", "overallSkillPts": 27, "gameTime": 296838890, "miniGameStars": {"0": 97, "1": 0, "2": 0, "3": 53}}
+{"studentID": "6486013", "age": 13, "gender": "male", "overallSkillPts": 21, "gameTime": 184297993, "miniGameStars": {"0": 80, "1": 0, "2": 0, "3": 40}}
+{"studentID": "6486007", "age": 12, "gender": "male", "overallSkillPts": 29, "gameTime": 331746240, "miniGameStars": {"0": 40, "1": 0, "2": 2, "3": 88}}
+{"studentID": "6567004", "age": 13, "gender": "male", "overallSkillPts": 27, "gameTime": 1302019563, "miniGameStars": {"0": 32, "1": 0, "2": 0, "3": 38}}
+{"studentID": "6546009", "age": 11, "gender": "male", "overallSkillPts": 30, "gameTime": 217327800, "miniGameStars": {"0": 46, "1": 0, "2": 0, "3": 84}}
+{"studentID": "6486011", "age": 11, "gender": "female", "overallSkillPts": 9, "gameTime": 462655403, "miniGameStars": {"0": 38, "1": 0, "2": 0, "3": 12}}
+{"studentID": "6486005", "age": 13, "gender": "male", "overallSkillPts": 30, "gameTime": 172890941, "miniGameStars": {"0": 31, "1": 0, "2": 1, "3": 78}}
+{"studentID": "6506003", "age": 12, "gender": "female", "overallSkillPts": 30, "gameTime": 1252089092, "miniGameStars": {"0": 19, "1": 0, "2": 0, "3": 101}}
+{"studentID": "6427032", "age": 11, "gender": "male", "overallSkillPts": 6, "gameTime": 3922597, "miniGameStars": {"0": 8, "1": 0, "2": 0, "3": 2}}
+{"studentID": "6427026", "age": 13, "gender": "female", "overallSkillPts": 30, "gameTime": 190546901, "miniGameStars": {"0": 30, "1": 1, "2": 0, "3": 89}}
+{"studentID": "6430002", "age": 13, "gender": "female", "overallSkillPts": 30, "gameTime": 196009504, "miniGameStars": {"0": 40, "1": 0, "2": 0, "3": 70}}
+{"studentID": "6430003", "age": 12, "gender": "female", "overallSkillPts": 30, "gameTime": 208485868, "miniGameStars": {"0": 48, "1": 0, "2": 0, "3": 132}}
+{"studentID": "6427027", "age": 12, "gender": "male", "overallSkillPts": 12, "gameTime": 188998629, "miniGameStars": {"0": 65, "1": 0, "2": 0, "3": 25}}
+{"studentID": "6427033", "age": 12, "gender": "male", "overallSkillPts": 30, "gameTime": 198877181, "miniGameStars": {"0": 22, "1": 0, "2": 0, "3": 78}}
+{"studentID": "6506002", "age": 11, "gender": "female", "overallSkillPts": 27, "gameTime": 258526486, "miniGameStars": {"0": 74, "1": 0, "2": 0, "3": 46}}
+{"studentID": "6486004", "age": 12, "gender": "female", "overallSkillPts": 30, "gameTime": 203698470, "miniGameStars": {"0": 23, "1": 0, "2": 0, "3": 77}}
+{"studentID": "6486010", "age": 14, "gender": "male", "overallSkillPts": 21, "gameTime": 1007860494, "miniGameStars": {"0": 35, "1": 0, "2": 0, "3": 65}}

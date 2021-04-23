@@ -1,0 +1,292 @@
+6427013,0,5:34:47,5/1/2013 4:38:54pm
+6427013,100,5:35:51,5
+6427013,102,5:35:53,5
+6427013,200,5:35:53,5,9,15,12,13,27
+6427013,210,5:36:6,224,593
+6427013,211,5:36:6,178,598
+6427013,207,5:36:6,5,-200,-140
+6427013,210,5:36:6,274,568
+6427013,211,5:36:7,279,617
+6427013,212,5:36:8,1
+6427013,210,5:36:9,271,593
+6427013,211,5:36:10,273,611
+6427013,213,5:36:10,5,s_cellPhone_M_G9b0,true
+6427013,210,5:36:13,493,583
+6427013,211,5:36:13,493,583
+6427013,221,5:36:13,5
+6427013,220,5:36:16,5
+6427013,210,5:36:20,236,392
+6427013,207,5:36:20,5,-200,0
+6427013,211,5:36:22,746,263
+6427013,213,5:36:22,5,c_teacherEng_G9b1N,true
+6427013,205,5:36:22,5,c_teacherEng_G9b1N,false,true
+6427013,210,5:36:26,163,116
+6427013,211,5:36:27,205,171
+6427013,213,5:36:27,5,c_kidSister_lati_a_G9b1N,true
+6427013,205,5:36:27,5,c_kidSister_lati_a_G9b1N,false,true
+6427013,221,5:36:32,5
+6427013,220,5:36:34,5
+6427013,210,5:36:38,1076,452
+6427013,207,5:36:39,5,-200,-380
+6427013,211,5:36:40,1142,354
+6427013,213,5:36:40,5,c_cousin_M_a_G9b1N,true
+6427013,205,5:36:40,5,c_cousin_M_a_G9b1N,false,true
+6427013,210,5:36:43,882,478
+6427013,211,5:36:43,882,478
+6427013,210,5:36:43,1326,449
+6427013,207,5:36:44,5,-380,-785
+6427013,207,5:36:50,5,-785,0
+6427013,211,5:36:51,240,559
+6427013,210,5:36:52,324,486
+6427013,211,5:36:52,277,467
+6427013,212,5:36:53,2
+6427013,210,5:36:54,313,466
+6427013,211,5:36:54,309,490
+6427013,212,5:36:55,0
+6427013,210,5:36:56,304,436
+6427013,211,5:36:57,286,465
+6427013,213,5:36:57,5,s_joint_G9b1N,true
+6427013,1003,5:37:24,0
+6427013,1004,5:37:32,6
+6427013,400,5:37:34,6,[]
+6427013,401,5:38:16,6,[StatementsData_logId:0]
+6427013,403,5:38:22,6,[StatementsData_logId:0,false]
+6427013,405,5:38:23,6,[StatementsData_logId:0]
+6427013,1002,5:38:26,6
+6427013,1003,5:38:26,0
+6427013,1004,5:38:28,6
+6427013,400,5:38:30,6,[]
+6427013,401,5:38:31,6,[StatementsData_logId:0]
+6427013,402,5:38:31,6,[StatementsData_logId:0,true]
+6427013,405,5:38:32,6,[StatementsData_logId:0]
+6427013,406,5:38:33,6,[StatementsData_logId:0,2]
+6427013,411,5:38:34,6,[StatementsData_logId:0]
+6427013,401,5:43:29,6,[StatementsData_logId:1]
+6427013,404,5:44:34,6,[StatementsData_logId:1,false]
+6427013,405,5:44:36,6,[StatementsData_logId:1]
+6427013,406,5:44:39,6,[StatementsData_logId:1,-2]
+6427013,411,5:44:43,6,[StatementsData_logId:1]
+6427013,401,5:44:44,6,[StatementsData_logId:2]
+6427013,402,5:44:45,6,[StatementsData_logId:2,true]
+6427013,405,5:44:46,6,[StatementsData_logId:2]
+6427013,406,5:44:46,6,[StatementsData_logId:2,2]
+6427013,411,5:44:47,6,[StatementsData_logId:2]
+6427013,401,5:44:48,6,[StatementsData_logId:3]
+6427013,404,5:44:48,6,[StatementsData_logId:3,false]
+6427013,405,5:44:49,6,[StatementsData_logId:3]
+6427013,406,5:44:50,6,[StatementsData_logId:3,-2]
+6427013,411,5:44:51,6,[StatementsData_logId:3]
+6427013,401,5:44:52,6,[StatementsData_logId:4]
+6427013,404,5:44:53,6,[StatementsData_logId:4,false]
+6427013,405,5:44:53,6,[StatementsData_logId:4]
+6427013,406,5:44:55,6,[StatementsData_logId:4,-2]
+6427013,411,5:44:56,6,[StatementsData_logId:4]
+6427013,401,5:44:56,6,[StatementsData_logId:5]
+6427013,403,5:44:57,6,[StatementsData_logId:5,true]
+6427013,405,5:44:58,6,[StatementsData_logId:5]
+6427013,406,5:44:58,6,[StatementsData_logId:5,2]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:10]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:2]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:4]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:9]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:5]
+6427013,407,5:44:58,6,[StatementsData_logId:5,FactCardData_id:13]
+6427013,407,5:45:6,6,[StatementsData_logId:5,FactCardData_id:5]
+6427013,407,5:45:6,6,[StatementsData_logId:5,FactCardData_id:5]
+6427013,408,5:45:6,6,[StatementsData_logId:5,FactCardData_id:5,true]
+6427013,409,5:45:6,6,[StatementsData_logId:5]
+6427013,410,5:45:7,6,[StatementsData_logId:5,2]
+6427013,412,5:45:7,6,[StatementsData_logId:5]
+6427013,413,5:45:11,6,[StatementsData_logId:5,DuelResponsesData_logId:3]
+6427013,414,5:45:12,6,[StatementsData_logId:5,DuelResponsesData_logId:3]
+6427013,415,5:45:12,6,[StatementsData_logId:5,DuelResponsesData_logId:3,DuelResponsesData_witty_player_response]
+6427013,416,5:45:13,6,[StatementsData_logId:5,DuelResponsesData_logId:3]
+6427013,417,5:45:14,6,[StatementsData_logId:5,DuelResponsesData_logId:3]
+6427013,413,5:45:15,6,[StatementsData_logId:5,DuelResponsesData_logId:4]
+6427013,414,5:45:16,6,[StatementsData_logId:5,DuelResponsesData_logId:4]
+6427013,415,5:45:38,6,[StatementsData_logId:5,DuelResponsesData_logId:4,DuelResponsesData_ok_player_response]
+6427013,416,5:45:39,6,[StatementsData_logId:5,DuelResponsesData_logId:4]
+6427013,417,5:45:41,6,[StatementsData_logId:5,DuelResponsesData_logId:4]
+6427013,413,5:47:20,6,[StatementsData_logId:5,DuelResponsesData_logId:5]
+6427013,414,5:47:21,6,[StatementsData_logId:5,DuelResponsesData_logId:5]
+6427013,415,5:47:39,6,[StatementsData_logId:5,DuelResponsesData_logId:5,DuelResponsesData_witty_player_response]
+6427013,416,5:47:39,6,[StatementsData_logId:5,DuelResponsesData_logId:5]
+6427013,417,5:47:42,6,[StatementsData_logId:5,DuelResponsesData_logId:5]
+6427013,418,5:47:42,6,[StatementsData_logId:5,true]
+6427013,419,5:47:50,6,[StatementsData_logId:5,4]
+6427013,411,5:48:8,6,[StatementsData_logId:5]
+6427013,401,5:49:34,6,[StatementsData_logId:6]
+6427013,403,5:50:6,6,[StatementsData_logId:6,false]
+6427013,405,5:50:7,6,[StatementsData_logId:6]
+6427013,406,5:50:8,6,[StatementsData_logId:6,-2]
+6427013,411,5:50:9,6,[StatementsData_logId:6]
+6427013,401,5:50:12,6,[StatementsData_logId:7]
+6427013,404,5:50:12,6,[StatementsData_logId:7,false]
+6427013,405,5:50:13,6,[StatementsData_logId:7]
+6427013,406,5:50:14,6,[StatementsData_logId:7,-2]
+6427013,411,5:51:3,6,[StatementsData_logId:7]
+6427013,401,5:51:4,6,[StatementsData_logId:8]
+6427013,403,5:51:19,6,[StatementsData_logId:8,true]
+6427013,405,5:51:20,6,[StatementsData_logId:8]
+6427013,406,5:51:20,6,[StatementsData_logId:8,2]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:4]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:2]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:5]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:10]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:13]
+6427013,407,5:51:20,6,[StatementsData_logId:8,FactCardData_id:9]
+6427013,407,5:54:22,6,[StatementsData_logId:8,FactCardData_id:10]
+6427013,407,5:54:22,6,[StatementsData_logId:8,FactCardData_id:10]
+6427013,408,5:54:23,6,[StatementsData_logId:8,FactCardData_id:10,false]
+6427013,406,5:54:25,6,[StatementsData_logId:8,-2]
+6427013,411,5:54:26,6,[StatementsData_logId:8]
+6427013,420,5:54:26,6,[42]
+6427013,1005,5:54:26,6,[0,0,1]
+6427013,1001,5:54:31,6,[]
+6427013,1003,5:54:31,0
+6427013,207,5:55:11,5,-200,-215
+6427013,210,5:55:12,718,495
+6427013,211,5:55:13,336,489
+6427013,213,5:55:13,5,s_joint_G9b1N,true
+6427013,219,5:59:45,5
+6427013,218,5:59:47,5
+6427013,210,6:0:14,799,406
+6427013,211,6:0:14,799,406
+6427013,210,6:0:15,1145,394
+6427013,211,6:0:15,1357,387
+6427013,207,6:0:15,5,-215,-350
+6427013,210,6:0:16,1445,462
+6427013,207,6:0:17,5,-350,-995
+6427013,211,6:0:18,2013,443
+6427013,210,6:0:33,842,421
+6427013,211,6:0:34,824,426
+6427013,210,6:0:35,775,381
+6427013,211,6:0:35,839,408
+6427013,213,6:0:35,5,c_kidSister_lati_a_G9b0,true
+6427013,210,6:0:46,891,246
+6427013,211,6:0:47,901,308
+6427013,210,6:0:53,819,441
+6427013,211,6:0:54,836,413
+6427013,213,6:0:54,5,c_kidSister_lati_a_G9b0,true
+6427013,210,6:1:10,490,350
+6427013,211,6:1:11,545,483
+6427013,207,6:1:39,5,-200,-215
+6427013,210,6:1:39,991,399
+6427013,211,6:1:40,986,394
+6427013,207,6:2:12,5,-215,-215
+6427013,210,6:2:12,1049,366
+6427013,211,6:2:12,1049,366
+6427013,210,6:7:44,324,359
+6427013,211,6:7:45,313,389
+6427013,210,6:7:45,319,374
+6427013,211,6:7:46,349,431
+6427013,213,6:7:46,5,s_clock_M_G9b0,true
+6427013,1003,6:7:49,0
+6427013,1004,6:7:51,7
+6427013,400,6:7:53,7,[]
+6427013,401,6:7:57,7,[StatementsData_logId:0]
+6427013,402,6:8:0,7,[StatementsData_logId:0,false]
+6427013,405,6:8:2,7,[StatementsData_logId:0]
+6427013,406,6:8:3,7,[StatementsData_logId:0,-2]
+6427013,411,6:8:4,7,[StatementsData_logId:0]
+6427013,401,6:8:5,7,[StatementsData_logId:1]
+6427013,404,6:8:6,7,[StatementsData_logId:1,false]
+6427013,405,6:8:7,7,[StatementsData_logId:1]
+6427013,406,6:8:7,7,[StatementsData_logId:1,-2]
+6427013,411,6:8:9,7,[StatementsData_logId:1]
+6427013,401,6:8:10,7,[StatementsData_logId:2]
+6427013,404,6:8:10,7,[StatementsData_logId:2,false]
+6427013,405,6:8:10,7,[StatementsData_logId:2]
+6427013,406,6:8:10,7,[StatementsData_logId:2,-2]
+6427013,411,6:8:12,7,[StatementsData_logId:2]
+6427013,401,6:8:37,7,[StatementsData_logId:3]
+6427013,403,6:8:39,7,[StatementsData_logId:3,false]
+6427013,405,6:8:39,7,[StatementsData_logId:3]
+6427013,406,6:8:39,7,[StatementsData_logId:3,-2]
+6427013,411,6:8:41,7,[StatementsData_logId:3]
+6427013,401,6:8:42,7,[StatementsData_logId:4]
+6427013,404,6:8:42,7,[StatementsData_logId:4,false]
+6427013,405,6:8:43,7,[StatementsData_logId:4]
+6427013,406,6:8:44,7,[StatementsData_logId:4,-2]
+6427013,411,6:8:46,7,[StatementsData_logId:4]
+6427013,401,6:8:47,7,[StatementsData_logId:5]
+6427013,404,6:8:47,7,[StatementsData_logId:5,false]
+6427013,405,6:8:48,7,[StatementsData_logId:5]
+6427013,406,6:8:48,7,[StatementsData_logId:5,-2]
+6427013,411,6:8:49,7,[StatementsData_logId:5]
+6427013,420,6:8:49,7,[16]
+6427013,1000,6:8:51,7,[]
+6427013,103,6:9:31
+6427013,105,6:9:33
+6427013,703,6:9:35,[|| EpilogueItem ID: 0 unlocked: true ||,|| EpilogueItem ID: 1 unlocked: true ||,|| EpilogueItem ID: 2 unlocked: true ||,|| EpilogueItem ID: 3 unlocked: true ||,|| EpilogueItem ID: 4 unlocked: true ||,|| EpilogueItem ID: 5 unlocked: false ||,|| EpilogueItem ID: 6 unlocked: false ||,|| EpilogueItem ID: 7 unlocked: false ||,|| EpilogueItem ID: 8 unlocked: false ||,|| EpilogueItem ID: 9 unlocked: false ||,|| EpilogueItem ID: 10 unlocked: false ||,|| EpilogueItem ID: 11 unlocked: false ||,|| EpilogueItem ID: 12 unlocked: false ||,|| EpilogueItem ID: 13 unlocked: true ||,|| EpilogueItem ID: 14 unlocked: false ||,|| EpilogueItem ID: 15 unlocked: false ||,|| EpilogueItem ID: 16 unlocked: false ||,|| EpilogueItem ID: 17 unlocked: false ||,|| EpilogueItem ID: 18 unlocked: false ||,|| EpilogueItem ID: 19 unlocked: false ||,|| EpilogueItem ID: 20 unlocked: false ||,|| EpilogueItem ID: 21 unlocked: false ||,|| EpilogueItem ID: 22 unlocked: false ||,|| EpilogueItem ID: 23 unlocked: false ||,|| EpilogueItem ID: 24 unlocked: false ||],0.24
+6427013,706,6:9:40,(x=0, y=-100, w=1024, h=768),(x=0, y=-100, w=1024, h=768)
+6427013,706,6:9:42,(x=192, y=-100, w=1024, h=768),(x=416, y=-100, w=1024, h=768)
+6427013,706,6:9:42,(x=378, y=-100, w=1024, h=768),(x=348, y=-100, w=1024, h=768)
+6427013,706,6:9:46,(x=419, y=-100, w=1024, h=768),(x=994, y=-100, w=1024, h=768)
+6427013,706,6:9:48,(x=985, y=-100, w=1024, h=768),(x=940, y=-100, w=1024, h=768)
+6427013,706,6:9:49,(x=961, y=-100, w=1024, h=768),(x=960, y=-100, w=1024, h=768)
+6427013,706,6:9:49,(x=961, y=-100, w=1024, h=768),(x=960, y=-100, w=1024, h=768)
+6427013,704,6:9:50,16
+6427013,706,6:9:50,(x=961, y=-100, w=1024, h=768),(x=960, y=-100, w=1024, h=768)
+6427013,705,6:9:54,16,true
+6427013,706,6:9:56,(x=958, y=-100, w=1024, h=768),(x=884, y=-100, w=1024, h=768)
+6427013,704,6:9:56,17
+6427013,706,6:9:56,(x=958, y=-100, w=1024, h=768),(x=884, y=-100, w=1024, h=768)
+6427013,705,6:9:58,17,true
+6427013,704,6:9:59,18
+6427013,706,6:9:59,(x=958, y=-100, w=1024, h=768),(x=884, y=-100, w=1024, h=768)
+6427013,705,6:10:2,18,true
+6427013,704,6:10:2,18
+6427013,706,6:10:2,(x=958, y=-100, w=1024, h=768),(x=884, y=-100, w=1024, h=768)
+6427013,705,6:10:4,18,true
+6427013,704,6:10:5,18
+6427013,706,6:10:5,(x=958, y=-100, w=1024, h=768),(x=884, y=-100, w=1024, h=768)
+6427013,705,6:10:6,18,true
+6427013,706,6:10:8,(x=370, y=-100, w=1024, h=768),(x=366, y=-100, w=1024, h=768)
+6427013,706,6:10:8,(x=370, y=-100, w=1024, h=768),(x=366, y=-100, w=1024, h=768)
+6427013,704,6:10:9,15
+6427013,706,6:10:9,(x=370, y=-100, w=1024, h=768),(x=366, y=-100, w=1024, h=768)
+6427013,705,6:10:11,15,true
+6427013,704,6:10:12,13
+6427013,706,6:10:12,(x=370, y=-100, w=1024, h=768),(x=366, y=-100, w=1024, h=768)
+6427013,705,6:10:13,13,false
+6427013,706,6:10:14,(x=350, y=-100, w=1024, h=768),(x=346, y=-100, w=1024, h=768)
+6427013,706,6:10:15,(x=351, y=-100, w=1024, h=768),(x=343, y=-100, w=1024, h=768)
+6427013,704,6:10:15,14
+6427013,706,6:10:15,(x=351, y=-100, w=1024, h=768),(x=343, y=-100, w=1024, h=768)
+6427013,705,6:10:16,14,true
+6427013,706,6:10:17,(x=331, y=-100, w=1024, h=768),(x=330, y=-100, w=1024, h=768)
+6427013,706,6:10:18,(x=341, y=-100, w=1024, h=768),(x=344, y=-100, w=1024, h=768)
+6427013,704,6:10:18,14
+6427013,706,6:10:18,(x=341, y=-100, w=1024, h=768),(x=344, y=-100, w=1024, h=768)
+6427013,705,6:10:22,14,true
+6427013,706,6:10:24,(x=35, y=-100, w=1024, h=768),(x=10, y=-100, w=1024, h=768)
+6427013,704,6:10:24,12
+6427013,706,6:10:24,(x=35, y=-100, w=1024, h=768),(x=10, y=-100, w=1024, h=768)
+6427013,705,6:10:30,12,true
+6427013,706,6:10:33,(x=321, y=-100, w=1024, h=768),(x=1260, y=-100, w=1024, h=768)
+6427013,706,6:10:38,(x=1685, y=-100, w=1024, h=768),(x=2531, y=-100, w=1024, h=768)
+6427013,708,6:11:2
+6427013,1,6:11:2,5/1/2013 5:15:09pm,{"gameTime":22262317,"session":[{"stackId":12,"sceneId":"1P"},{"stackId":0,"sceneId":"1P"},{"stackId":1,"sceneId":"1P"},{"stackId":1,"sceneId":"1N"},{"stackId":1,"sceneId":"2P"},{"stackId":2,"sceneId":"3P"},{"stackId":2,"sceneId":"1P"},{"stackId":2,"sceneId":"1N"},{"stackId":2,"sceneId":"2P"},{"stackId":4,"sceneId":"1P"},{"stackId":4,"sceneId":"1N"},{"stackId":4,"sceneId":"2P"},{"stackId":3,"sceneId":"1P"},{"stackId":3,"sceneId":"1N"},{"stackId":3,"sceneId":"2P"}],"challengeStacks":[{"resolved":true,"challengeScenes":[{"keyPoints":["c_teacherEng_G7a0","c_bestFriend_M_a_G7a0","s_flag_gen"],"viewedAnimatic":true,"touchableObjects":["s_vocabAssignment_G7a0","c_friend1_M_a_G7a0","c_teacherEng_G7a0","s_doorClassroom_G7a0","s_otherStudent1_G7a0","s_clock_G7a0","s_angelouPoster_gen","s_shakespearePoster_gen","s_poePoster_gen","c_crewKid1_M_G7a0","s_atwoodPoster_gen","c_bestFriend_M_a_G7a0","s_flag_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_bestFriend_M_a_G7a1N","c_teacherEng_G7a1N","s_paperPlayers_G7a1N"],"viewedAnimatic":true,"touchableObjects":["s_otherStudent1_G7a1N","s_otherStudent2_G7a1N","c_crewKid1_M_G7a1N","s_poePoster_gen","s_posterPlagiarism_gen","c_bestFriend_M_a_G7a1N","c_teacherEng_G7a1N","s_atwoodPoster_gen","s_flag_gen","s_angelouPoster_gen","s_shakespearePoster_gen","s_paperPlayers_G7a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_teacherEng_G7a1P","s_flag_gen","s_paperEnglish_gen","c_bestFriend_M_a_G7a1P"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G7a1P","s_atwoodPoster_gen","s_flag_gen","s_poePoster_gen","s_paperEnglish_gen","s_clock_G7a1P","s_paperPlayers_G7a1P","s_shakespearePoster_gen","s_angelouPoster_gen","c_bestFriend_M_a_G7a1P"],"unlocked":true,"miniGameCards":[]}],"stackSize":3},{"resolved":true,"challengeScenes":[{"keyPoints":["s_backpack_M_G7b0","c_crewKid1_M_G7b0","c_kidSister_lati_a_G7b0"],"viewedAnimatic":true,"touchableObjects":["s_backpack_M_G7b0","c_cousinsBrother_a_G7b0","c_crewKid1_M_G7b0","c_cousin_M_a_G7b0","s_snackBarWorker_G7b0","c_kidSister_lati_a_G7b0","s_lifeguard_G7b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_kidSister_lati_a_G7b1N","c_crewKid1_M_G7b1N","s_graffiti_G7b1N","s_brokenCarWindow_G7b1N","s_sprayPaintCan_G7b1N"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G7b1N","c_kidSister_lati_a_G7b1N","s_cat_G7b1N","c_crewKid1_M_G7b1N","s_graffiti_G7b1N","s_brokenCarWindow_G7b1N","c_cousin_M_a_G7b1N","s_wreckedPlants_G7b1N","c_crewKid2_M_a_G7b1N","s_sprayPaintCan_G7b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G7b1P","c_cousinsBrother_a_G7b1P","c_cousinsBrothersFriend_a_G7b1P","s_poolDay_ruleSign_G7b1P"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G7b1P","c_cousinsBrother_a_G7b1P","c_crush1_M_a_G7b1P","c_cousinsBrothersFriend_a_G7b1P","c_kidSister_lati_a_G7b1P","s_poolDay_ruleSign_G7b1P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush1_M_a_G7b2N","c_kidSister_lati_a_G7b2N","s_kid1_G7b2N","c_cousin_M_a_G7b2N"],"viewedAnimatic":true,"touchableObjects":["c_cousinsBrothersFriend_a_G7b2N","c_crush1_M_a_G7b2N","s_cousinsBFgirlfriend_G7b2N","c_kidSister_lati_a_G7b2N","s_kid1_G7b2N","c_cousin_M_a_G7b2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G7b2P","s_computer_M_G7b2P","c_kidSister_lati_a_G7b2P"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G7b2P","s_computer_M_G7b2P","s_closet_M_G7b2P","s_calendar_M_gen","c_kidSister_lati_a_G7b2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":["s_cellphone_G8a0","s_clock_G8a0","c_cousin_M_a_G8a0","c_crush2_M_a_G8a0","s_bottleCrush2_M_G8a0"],"viewedAnimatic":true,"touchableObjects":["c_crewKid1_M_a_G8a0","s_cellphone_G8a0","s_bottleTable_G8a0","s_beerSixpack_G8a0","s_clock_G8a0","s_beerCooler_G8a0","s_cigaretteKid1_G8a0","c_cousin_M_a_G8a0","c_friend1_M_G8a0","c_crush2_M_a_G8a0","s_stairs_G8a0","s_bottleCrush2_M_G8a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_crush2Lips_M_G8a1N","s_crush2Sore_M_G8a1N","s_crush2Eyes_M_G8a1N","s_dirtyClothes_gen","s_basementDoor_gen"],"viewedAnimatic":true,"touchableObjects":["s_crush2Lips_M_G8a1N","s_crush2Sore_M_G8a1N","s_crush2Eyes_M_G8a1N","c_crush2_M_a_G8a1N","s_dirtyClothes_gen","s_inhalantsShelf_gen","s_basementDoor_gen","s_stairs_G8a1N","s_dryer_G8a1N","s_waterHeater_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_inhalantsShelf_gen","c_crush2_M_a_G8a1P","s_dirtyClothes_gen","s_basementDoor_gen"],"viewedAnimatic":true,"touchableObjects":["s_inhalantsShelf_gen","c_crush2_M_a_G8a1P","s_spraypaintCrush2_M_G8a1P","s_waterHeater_gen","s_dirtyClothes_gen","s_basementDoor_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush2_M_a_G8a2N","s_spraypaintCan_G8a2N"],"viewedAnimatic":true,"touchableObjects":["c_crush2_M_a_G8a2N","s_fumes_G8a2N","s_spraypaintCan_G8a2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush2_M_a_G8a2P","c_kidSister_lati_a_G8a2P","s_sistersToy_G8a2P","s_pictureDad_lati_gen","s_magazine_G8a2P"],"viewedAnimatic":true,"touchableObjects":["c_grandma_lati_a_G8a2P","s_door_gen","c_crush2_M_a_G8a2P","c_kidSister_lati_a_G8a2P","s_sistersToy_G8a2P","s_cigarette_G8a2P","s_teaCup_G8a2P","s_videoGame_G8a2P","s_stairs_G8a2P","s_pictureDad_lati_gen","s_magazine_G8a2P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_mirror_lati_M_a_G8a3N","c_nurse_a_G8a3N","s_pamphlet3_G8a3N","s_pamphlet1_G8a3N"],"viewedAnimatic":true,"touchableObjects":["s_mirror_lati_M_a_G8a3N","c_nurse_a_G8a3N","s_pamphlet3_G8a3N","s_phone_G8a3N","s_door_G8a3N","s_pamphlet2_G8a3N","s_pamphlet1_G8a3N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_kidsCouch_G8a3P","c_crush2_M_a_G8a3P"],"viewedAnimatic":true,"touchableObjects":["s_kidsCouch_G8a3P","s_window_G8a3P","c_friend1_M_a_G8a3P","s_kidStanding_G8a3P","c_crush2_M_a_G8a3P"],"unlocked":true,"miniGameCards":[]}],"stackSize":7},{"resolved":true,"challengeScenes":[{"keyPoints":["c_kidSister_lati_a_G8b0","c_friend1_M_a_G8b0","s_pillBottle_G8b0"],"viewedAnimatic":true,"touchableObjects":["c_kidSister_lati_a_G8b0","c_friend1_M_a_G8b0","c_grandma_lati_a_G8b0","s_pillBottle_G8b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_friend1_M_a_G8b1N","c_grandma_lati_a_G8b1N","c_kidSister_lati_a_G8b1N"],"viewedAnimatic":true,"touchableObjects":["c_friend1_M_a_G8b1N","c_grandma_lati_a_G8b1N","c_kidSister_lati_a_G8b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_friend1_M_a_G8b1P","s_pillBottle_M_G8b1P","c_grandma_lati_a_G8b1P"],"viewedAnimatic":true,"touchableObjects":["c_friend1_M_a_G8b1P","c_kidSister_lati_a_G8b1P","s_pillBottle_M_G8b1P","c_grandma_lati_a_G8b1P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_teacherEng_G8b2N","s_clock_G8b2N","c_crewKid2_M_a_G8b2N","c_friend1_M_a_G8b2N","s_sandwichBagPills_G8b2N"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G8b2N","s_clock_G8b2N","c_crewKid2_M_a_G8b2N","s_kid2_G8b2N","c_friend1_M_a_G8b2N","s_sandwichBagPills_G8b2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_pillBottle_G8b2P","c_grandma_lati_a_G8b2P","c_friend1_M_a_G8b2P"],"viewedAnimatic":true,"touchableObjects":["s_pillBottle_G8b2P","c_grandma_lati_a_G8b2P","c_mom_lati_a_G8b2P","c_friend1_M_a_G8b2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":["s_cellPhone_M_G9a0","s_bathingSuit_M_G9a0","s_door_M_gen","s_clock_M_G9a0"],"viewedAnimatic":true,"touchableObjects":["s_cellPhone_M_G9a0","s_calendar_M_gen","s_window_M_G9a0","s_bathingSuit_M_G9a0","s_door_M_gen","s_clock_M_G9a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_kid3_G9a1N","c_cousin_M_a_G9a1N","c_policeOfficer_G9a1N","s_fence_G9a1N"],"viewedAnimatic":true,"touchableObjects":["s_policeCar_G9a1N","s_kid4_G9a1N","s_kid3_G9a1N","c_cousinsBrothersFriend_a_G9a1N","s_potSmokeCloud_G9a1N","s_bathingSuits_G9a1N","c_cousin_M_a_G9a1N","c_policeOfficer_G9a1N","s_fence_G9a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_joint_M_G9a1P","c_cousin_M_a_G9a1P","s_door_M_gen","s_calendar_M_gen","s_basketball_M_gen"],"viewedAnimatic":true,"touchableObjects":["s_joint_M_G9a1P","c_cousin_M_a_G9a1P","s_computer_M_gen","s_door_M_gen","s_calendar_M_gen","s_basketball_M_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G9a2N","c_kidSister_lati_a_G9a2N","c_mom_lati_a_G9a2N","s_pictureDad_lati_M_gen"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G9a2N","c_kidSister_lati_a_G9a2N","c_mom_lati_a_G9a2N","s_potSmokeCloud_M_G9a2N","s_cookieTrayEmpty_M_G9a2N","s_pictureDad_lati_M_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_door_gen","s_pizzaBox_G9a2P","c_mom_lati_a_G9a2P","c_cousin_M_a_G9a2P"],"viewedAnimatic":true,"touchableObjects":["s_door_gen","s_pizzaBox_G9a2P","c_mom_lati_a_G9a2P","c_grandma_lati_a_G9a2P","c_kidSister_lati_a_G9a2P","c_cousin_M_a_G9a2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":["s_computer_M_gen","s_mirror_M_G9b0","s_pictureDad_lati_M_gen"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G9b0","s_computer_M_gen","s_closet_M_G9b0","s_cellPhone_M_G9b0","s_mirror_M_G9b0","s_pictureDad_lati_M_gen","c_kidSister_lati_a_G9b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_kidSister_lati_a_G9b1N","c_teacherEng_G9b1N","c_cousin_M_a_G9b1N","s_clock_G9b1N","s_brokenLamp_G9b1N"],"viewedAnimatic":true,"touchableObjects":["c_kidSister_lati_a_G9b1N","c_teacherEng_G9b1N","c_cousin_M_a_G9b1N","s_pictureDaddark_lati_gen","s_photoCracked_G9b1N","s_clock_G9b1N","s_boomBox_G9b1N","s_coupleOnCouch_G9b1N","s_brokenLamp_G9b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":["s_cellPhone_M_G10a0"],"viewedAnimatic":true,"touchableObjects":["s_bed2_M_G10a0","s_bed1_M_G10a0","s_door_M_gen","s_cellPhone_M_G10a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":["c_family_lati_a_G0a0","c_player_lati_M_a_G0a0","c_education_G0a0","c_friends_G0a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_family_lati_a_G0a1N","c_home_G0a1N","c_job_G0a1N"],"viewedAnimatic":false,"touchableObjects":["c_player_lati_M_a_G0a1N","c_family_lati_a_G0a1N","c_home_G0a1N","c_job_G0a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_Nurse_G0a1P","c_dad_lati_a_G0a1P","c_mom_lati_a_G0a1P","c_Teacher_G0a1P","c_grandma_lati_a_G0a1P","c_kidsister_lati_a_G0a1P"],"viewedAnimatic":false,"touchableObjects":["c_friends_G0a1P","c_cousins_M_a_G0a1P","c_Nurse_G0a1P","c_dad_lati_a_G0a1P","c_mom_lati_a_G0a1P","c_Teacher_G0a1P","c_grandma_lati_a_G0a1P","c_kidsister_lati_a_G0a1P"],"unlocked":true,"miniGameCards":[]}],"stackSize":3}],"minigames":[{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":2,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true}],"skillPoints":10},{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":true}],"skillPoints":15},{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":false}],"skillPoints":12},{"levelSaveData":[{"starRating":2,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false}],"skillPoints":13},{"name":"g","gender":0,"visualAvatar":0,"age":14,"levelSaveData":[{"starRating":3,"unlocked":true},{"chunks":[["1"],["0$$Gred","0$$angle"],["15","2","4"],["0"]],"unlocked":true,"starRating":3},{"chunks":[["1"],["1$$basketball","4$$football"],["5","2"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["4"],["6"],["0"],["0","4"],["6"]],"unlocked":true,"starRating":3},{"chunks":[["4"],["5"],["7","19"],["3"],["4"],["8"]],"unlocked":true,"starRating":3},{"chunks":[["5"],["6","4","4","5"],["8"],["3"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["3"],["6","2"],["2","2"],["1"]],"unlocked":true,"starRating":3},{"chunks":[["7","4","6"],["0","5","2"],["0"],["0"],["2"]],"unlocked":true,"starRating":3},{"chunks":[["7","3","4"],["2","1","6"],["5","0"]],"unlocked":true,"starRating":3},{"chunks":[[null],[null],[null],[null],[null],[null]],"unlocked":false,"starRating":0}],"id":2,"skillPoints":27}],"playerId":6427013,"epilogue":{"rating":0},"sessionId":14,"avatar":{"name":"g","gender":0,"visualAvatar":0,"age":14,"levelSaveData":[{"starRating":3,"unlocked":true},{"chunks":[["1"],["0$$Gred","0$$angle"],["15","2","4"],["0"]],"unlocked":true,"starRating":3},{"chunks":[["1"],["1$$basketball","4$$football"],["5","2"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["4"],["6"],["0"],["0","4"],["6"]],"unlocked":true,"starRating":3},{"chunks":[["4"],["5"],["7","19"],["3"],["4"],["8"]],"unlocked":true,"starRating":3},{"chunks":[["5"],["6","4","4","5"],["8"],["3"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["3"],["6","2"],["2","2"],["1"]],"unlocked":true,"starRating":3},{"chunks":[["7","4","6"],["0","5","2"],["0"],["0"],["2"]],"unlocked":true,"starRating":3},{"chunks":[["7","3","4"],["2","1","6"],["5","0"]],"unlocked":true,"starRating":3},{"chunks":[[null],[null],[null],[null],[null],[null]],"unlocked":false,"starRating":0}],"id":2,"skillPoints":27}}
+6427013,0,6:11:2,5/1/2013 5:15:16pm
+6427013,100,6:15:40,3
+6427013,101,6:15:42,3
+6427013,103,6:17:41
+6427013,105,6:17:42
+6427013,703,6:17:45,[|| EpilogueItem ID: 0 unlocked: true ||,|| EpilogueItem ID: 1 unlocked: true ||,|| EpilogueItem ID: 2 unlocked: true ||,|| EpilogueItem ID: 3 unlocked: true ||,|| EpilogueItem ID: 4 unlocked: true ||,|| EpilogueItem ID: 5 unlocked: false ||,|| EpilogueItem ID: 6 unlocked: false ||,|| EpilogueItem ID: 7 unlocked: false ||,|| EpilogueItem ID: 8 unlocked: false ||,|| EpilogueItem ID: 9 unlocked: false ||,|| EpilogueItem ID: 10 unlocked: false ||,|| EpilogueItem ID: 11 unlocked: false ||,|| EpilogueItem ID: 12 unlocked: false ||,|| EpilogueItem ID: 13 unlocked: true ||,|| EpilogueItem ID: 14 unlocked: false ||,|| EpilogueItem ID: 15 unlocked: false ||,|| EpilogueItem ID: 16 unlocked: false ||,|| EpilogueItem ID: 17 unlocked: false ||,|| EpilogueItem ID: 18 unlocked: false ||,|| EpilogueItem ID: 19 unlocked: false ||,|| EpilogueItem ID: 20 unlocked: false ||,|| EpilogueItem ID: 21 unlocked: false ||,|| EpilogueItem ID: 22 unlocked: false ||,|| EpilogueItem ID: 23 unlocked: false ||,|| EpilogueItem ID: 24 unlocked: false ||],0.24
+6427013,706,6:18:8,(x=18, y=-100, w=1024, h=768),(x=242, y=-100, w=1024, h=768)
+6427013,706,6:18:15,(x=246, y=-100, w=1024, h=768),(x=262, y=-100, w=1024, h=768)
+6427013,704,6:18:15,13
+6427013,706,6:18:15,(x=246, y=-100, w=1024, h=768),(x=262, y=-100, w=1024, h=768)
+6427013,705,6:18:17,13,false
+6427013,704,6:18:17,1
+6427013,706,6:18:17,(x=246, y=-100, w=1024, h=768),(x=262, y=-100, w=1024, h=768)
+6427013,704,6:18:19,13
+6427013,706,6:18:19,(x=246, y=-100, w=1024, h=768),(x=262, y=-100, w=1024, h=768)
+6427013,705,6:18:21,13,false
+6427013,707,6:18:27,0,1
+6427013,706,6:18:28,(x=2531, y=-100, w=1024, h=768),(x=2531, y=-100, w=1024, h=768)
+6427013,707,6:18:28,1,2
+6427013,706,6:18:28,(x=2531, y=-100, w=1024, h=768),(x=2531, y=-100, w=1024, h=768)
+6427013,708,6:18:29
+6427013,1,6:18:29,5/1/2013 5:22:43pm,{"gameTime":22709391,"session":[{"stackId":12,"sceneId":"1P"},{"stackId":0,"sceneId":"1P"},{"stackId":1,"sceneId":"1P"},{"stackId":1,"sceneId":"1N"},{"stackId":1,"sceneId":"2P"},{"stackId":2,"sceneId":"3P"},{"stackId":2,"sceneId":"1P"},{"stackId":2,"sceneId":"1N"},{"stackId":2,"sceneId":"2P"},{"stackId":4,"sceneId":"1P"},{"stackId":4,"sceneId":"1N"},{"stackId":4,"sceneId":"2P"},{"stackId":3,"sceneId":"1P"},{"stackId":3,"sceneId":"1N"},{"stackId":3,"sceneId":"2P"}],"challengeStacks":[{"resolved":true,"challengeScenes":[{"keyPoints":["c_teacherEng_G7a0","c_bestFriend_M_a_G7a0","s_flag_gen"],"viewedAnimatic":true,"touchableObjects":["s_vocabAssignment_G7a0","c_friend1_M_a_G7a0","c_teacherEng_G7a0","s_doorClassroom_G7a0","s_otherStudent1_G7a0","s_clock_G7a0","s_angelouPoster_gen","s_shakespearePoster_gen","s_poePoster_gen","c_crewKid1_M_G7a0","s_atwoodPoster_gen","c_bestFriend_M_a_G7a0","s_flag_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_bestFriend_M_a_G7a1N","c_teacherEng_G7a1N","s_paperPlayers_G7a1N"],"viewedAnimatic":true,"touchableObjects":["s_otherStudent1_G7a1N","s_otherStudent2_G7a1N","c_crewKid1_M_G7a1N","s_poePoster_gen","s_posterPlagiarism_gen","c_bestFriend_M_a_G7a1N","c_teacherEng_G7a1N","s_atwoodPoster_gen","s_flag_gen","s_angelouPoster_gen","s_shakespearePoster_gen","s_paperPlayers_G7a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_teacherEng_G7a1P","s_flag_gen","s_paperEnglish_gen","c_bestFriend_M_a_G7a1P"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G7a1P","s_atwoodPoster_gen","s_flag_gen","s_poePoster_gen","s_paperEnglish_gen","s_clock_G7a1P","s_paperPlayers_G7a1P","s_shakespearePoster_gen","s_angelouPoster_gen","c_bestFriend_M_a_G7a1P"],"unlocked":true,"miniGameCards":[]}],"stackSize":3},{"resolved":true,"challengeScenes":[{"keyPoints":["s_backpack_M_G7b0","c_crewKid1_M_G7b0","c_kidSister_lati_a_G7b0"],"viewedAnimatic":true,"touchableObjects":["s_backpack_M_G7b0","c_cousinsBrother_a_G7b0","c_crewKid1_M_G7b0","c_cousin_M_a_G7b0","s_snackBarWorker_G7b0","c_kidSister_lati_a_G7b0","s_lifeguard_G7b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_kidSister_lati_a_G7b1N","c_crewKid1_M_G7b1N","s_graffiti_G7b1N","s_brokenCarWindow_G7b1N","s_sprayPaintCan_G7b1N"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G7b1N","c_kidSister_lati_a_G7b1N","s_cat_G7b1N","c_crewKid1_M_G7b1N","s_graffiti_G7b1N","s_brokenCarWindow_G7b1N","c_cousin_M_a_G7b1N","s_wreckedPlants_G7b1N","c_crewKid2_M_a_G7b1N","s_sprayPaintCan_G7b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G7b1P","c_cousinsBrother_a_G7b1P","c_cousinsBrothersFriend_a_G7b1P","s_poolDay_ruleSign_G7b1P"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G7b1P","c_cousinsBrother_a_G7b1P","c_crush1_M_a_G7b1P","c_cousinsBrothersFriend_a_G7b1P","c_kidSister_lati_a_G7b1P","s_poolDay_ruleSign_G7b1P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush1_M_a_G7b2N","c_kidSister_lati_a_G7b2N","s_kid1_G7b2N","c_cousin_M_a_G7b2N"],"viewedAnimatic":true,"touchableObjects":["c_cousinsBrothersFriend_a_G7b2N","c_crush1_M_a_G7b2N","s_cousinsBFgirlfriend_G7b2N","c_kidSister_lati_a_G7b2N","s_kid1_G7b2N","c_cousin_M_a_G7b2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G7b2P","s_computer_M_G7b2P","c_kidSister_lati_a_G7b2P"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G7b2P","s_computer_M_G7b2P","s_closet_M_G7b2P","s_calendar_M_gen","c_kidSister_lati_a_G7b2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":["s_cellphone_G8a0","s_clock_G8a0","c_cousin_M_a_G8a0","c_crush2_M_a_G8a0","s_bottleCrush2_M_G8a0"],"viewedAnimatic":true,"touchableObjects":["c_crewKid1_M_a_G8a0","s_cellphone_G8a0","s_bottleTable_G8a0","s_beerSixpack_G8a0","s_clock_G8a0","s_beerCooler_G8a0","s_cigaretteKid1_G8a0","c_cousin_M_a_G8a0","c_friend1_M_G8a0","c_crush2_M_a_G8a0","s_stairs_G8a0","s_bottleCrush2_M_G8a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_crush2Lips_M_G8a1N","s_crush2Sore_M_G8a1N","s_crush2Eyes_M_G8a1N","s_dirtyClothes_gen","s_basementDoor_gen"],"viewedAnimatic":true,"touchableObjects":["s_crush2Lips_M_G8a1N","s_crush2Sore_M_G8a1N","s_crush2Eyes_M_G8a1N","c_crush2_M_a_G8a1N","s_dirtyClothes_gen","s_inhalantsShelf_gen","s_basementDoor_gen","s_stairs_G8a1N","s_dryer_G8a1N","s_waterHeater_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_inhalantsShelf_gen","c_crush2_M_a_G8a1P","s_dirtyClothes_gen","s_basementDoor_gen"],"viewedAnimatic":true,"touchableObjects":["s_inhalantsShelf_gen","c_crush2_M_a_G8a1P","s_spraypaintCrush2_M_G8a1P","s_waterHeater_gen","s_dirtyClothes_gen","s_basementDoor_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush2_M_a_G8a2N","s_spraypaintCan_G8a2N"],"viewedAnimatic":true,"touchableObjects":["c_crush2_M_a_G8a2N","s_fumes_G8a2N","s_spraypaintCan_G8a2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_crush2_M_a_G8a2P","c_kidSister_lati_a_G8a2P","s_sistersToy_G8a2P","s_pictureDad_lati_gen","s_magazine_G8a2P"],"viewedAnimatic":true,"touchableObjects":["c_grandma_lati_a_G8a2P","s_door_gen","c_crush2_M_a_G8a2P","c_kidSister_lati_a_G8a2P","s_sistersToy_G8a2P","s_cigarette_G8a2P","s_teaCup_G8a2P","s_videoGame_G8a2P","s_stairs_G8a2P","s_pictureDad_lati_gen","s_magazine_G8a2P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_mirror_lati_M_a_G8a3N","c_nurse_a_G8a3N","s_pamphlet3_G8a3N","s_pamphlet1_G8a3N"],"viewedAnimatic":true,"touchableObjects":["s_mirror_lati_M_a_G8a3N","c_nurse_a_G8a3N","s_pamphlet3_G8a3N","s_phone_G8a3N","s_door_G8a3N","s_pamphlet2_G8a3N","s_pamphlet1_G8a3N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_kidsCouch_G8a3P","c_crush2_M_a_G8a3P"],"viewedAnimatic":true,"touchableObjects":["s_kidsCouch_G8a3P","s_window_G8a3P","c_friend1_M_a_G8a3P","s_kidStanding_G8a3P","c_crush2_M_a_G8a3P"],"unlocked":true,"miniGameCards":[]}],"stackSize":7},{"resolved":true,"challengeScenes":[{"keyPoints":["c_kidSister_lati_a_G8b0","c_friend1_M_a_G8b0","s_pillBottle_G8b0"],"viewedAnimatic":true,"touchableObjects":["c_kidSister_lati_a_G8b0","c_friend1_M_a_G8b0","c_grandma_lati_a_G8b0","s_pillBottle_G8b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_friend1_M_a_G8b1N","c_grandma_lati_a_G8b1N","c_kidSister_lati_a_G8b1N"],"viewedAnimatic":true,"touchableObjects":["c_friend1_M_a_G8b1N","c_grandma_lati_a_G8b1N","c_kidSister_lati_a_G8b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_friend1_M_a_G8b1P","s_pillBottle_M_G8b1P","c_grandma_lati_a_G8b1P"],"viewedAnimatic":true,"touchableObjects":["c_friend1_M_a_G8b1P","c_kidSister_lati_a_G8b1P","s_pillBottle_M_G8b1P","c_grandma_lati_a_G8b1P"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_teacherEng_G8b2N","s_clock_G8b2N","c_crewKid2_M_a_G8b2N","c_friend1_M_a_G8b2N","s_sandwichBagPills_G8b2N"],"viewedAnimatic":true,"touchableObjects":["c_teacherEng_G8b2N","s_clock_G8b2N","c_crewKid2_M_a_G8b2N","s_kid2_G8b2N","c_friend1_M_a_G8b2N","s_sandwichBagPills_G8b2N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_pillBottle_G8b2P","c_grandma_lati_a_G8b2P","c_friend1_M_a_G8b2P"],"viewedAnimatic":true,"touchableObjects":["s_pillBottle_G8b2P","c_grandma_lati_a_G8b2P","c_mom_lati_a_G8b2P","c_friend1_M_a_G8b2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":["s_cellPhone_M_G9a0","s_bathingSuit_M_G9a0","s_door_M_gen","s_clock_M_G9a0"],"viewedAnimatic":true,"touchableObjects":["s_cellPhone_M_G9a0","s_calendar_M_gen","s_window_M_G9a0","s_bathingSuit_M_G9a0","s_door_M_gen","s_clock_M_G9a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_kid3_G9a1N","c_cousin_M_a_G9a1N","c_policeOfficer_G9a1N","s_fence_G9a1N"],"viewedAnimatic":true,"touchableObjects":["s_policeCar_G9a1N","s_kid4_G9a1N","s_kid3_G9a1N","c_cousinsBrothersFriend_a_G9a1N","s_potSmokeCloud_G9a1N","s_bathingSuits_G9a1N","c_cousin_M_a_G9a1N","c_policeOfficer_G9a1N","s_fence_G9a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_joint_M_G9a1P","c_cousin_M_a_G9a1P","s_door_M_gen","s_calendar_M_gen","s_basketball_M_gen"],"viewedAnimatic":true,"touchableObjects":["s_joint_M_G9a1P","c_cousin_M_a_G9a1P","s_computer_M_gen","s_door_M_gen","s_calendar_M_gen","s_basketball_M_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_cousin_M_a_G9a2N","c_kidSister_lati_a_G9a2N","c_mom_lati_a_G9a2N","s_pictureDad_lati_M_gen"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G9a2N","c_kidSister_lati_a_G9a2N","c_mom_lati_a_G9a2N","s_potSmokeCloud_M_G9a2N","s_cookieTrayEmpty_M_G9a2N","s_pictureDad_lati_M_gen"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["s_door_gen","s_pizzaBox_G9a2P","c_mom_lati_a_G9a2P","c_cousin_M_a_G9a2P"],"viewedAnimatic":true,"touchableObjects":["s_door_gen","s_pizzaBox_G9a2P","c_mom_lati_a_G9a2P","c_grandma_lati_a_G9a2P","c_kidSister_lati_a_G9a2P","c_cousin_M_a_G9a2P"],"unlocked":true,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":["s_computer_M_gen","s_mirror_M_G9b0","s_pictureDad_lati_M_gen"],"viewedAnimatic":true,"touchableObjects":["c_cousin_M_a_G9b0","s_computer_M_gen","s_closet_M_G9b0","s_cellPhone_M_G9b0","s_mirror_M_G9b0","s_pictureDad_lati_M_gen","c_kidSister_lati_a_G9b0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_kidSister_lati_a_G9b1N","c_teacherEng_G9b1N","c_cousin_M_a_G9b1N","s_clock_G9b1N","s_brokenLamp_G9b1N"],"viewedAnimatic":true,"touchableObjects":["c_kidSister_lati_a_G9b1N","c_teacherEng_G9b1N","c_cousin_M_a_G9b1N","s_pictureDaddark_lati_gen","s_photoCracked_G9b1N","s_clock_G9b1N","s_boomBox_G9b1N","s_coupleOnCouch_G9b1N","s_brokenLamp_G9b1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":["s_cellPhone_M_G10a0"],"viewedAnimatic":true,"touchableObjects":["s_bed2_M_G10a0","s_bed1_M_G10a0","s_door_M_gen","s_cellPhone_M_G10a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":true,"touchableObjects":[],"unlocked":true,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":false,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]},{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":[],"unlocked":false,"miniGameCards":[]}],"stackSize":5},{"resolved":true,"challengeScenes":[{"keyPoints":[],"viewedAnimatic":false,"touchableObjects":["c_family_lati_a_G0a0","c_player_lati_M_a_G0a0","c_education_G0a0","c_friends_G0a0"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_family_lati_a_G0a1N","c_home_G0a1N","c_job_G0a1N"],"viewedAnimatic":false,"touchableObjects":["c_player_lati_M_a_G0a1N","c_family_lati_a_G0a1N","c_home_G0a1N","c_job_G0a1N"],"unlocked":true,"miniGameCards":[]},{"keyPoints":["c_Nurse_G0a1P","c_dad_lati_a_G0a1P","c_mom_lati_a_G0a1P","c_Teacher_G0a1P","c_grandma_lati_a_G0a1P","c_kidsister_lati_a_G0a1P"],"viewedAnimatic":false,"touchableObjects":["c_friends_G0a1P","c_cousins_M_a_G0a1P","c_Nurse_G0a1P","c_dad_lati_a_G0a1P","c_mom_lati_a_G0a1P","c_Teacher_G0a1P","c_grandma_lati_a_G0a1P","c_kidsister_lati_a_G0a1P"],"unlocked":true,"miniGameCards":[]}],"stackSize":3}],"minigames":[{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":2,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true}],"skillPoints":10},{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":true}],"skillPoints":15},{"levelSaveData":[{"starRating":3,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":false}],"skillPoints":12},{"levelSaveData":[{"starRating":2,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":0,"unlocked":true},{"starRating":2,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":1,"unlocked":true},{"starRating":3,"unlocked":true},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false},{"starRating":0,"unlocked":false}],"skillPoints":13},{"name":"g","gender":0,"visualAvatar":0,"age":14,"levelSaveData":[{"starRating":3,"unlocked":true},{"chunks":[["1"],["0$$Gred","0$$angle"],["15","2","4"],["0"]],"unlocked":true,"starRating":3},{"chunks":[["1"],["1$$basketball","4$$football"],["5","2"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["4"],["6"],["0"],["0","4"],["6"]],"unlocked":true,"starRating":3},{"chunks":[["4"],["5"],["7","19"],["3"],["4"],["8"]],"unlocked":true,"starRating":3},{"chunks":[["5"],["6","4","4","5"],["8"],["3"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["3"],["6","2"],["2","2"],["1"]],"unlocked":true,"starRating":3},{"chunks":[["7","4","6"],["0","5","2"],["0"],["0"],["2"]],"unlocked":true,"starRating":3},{"chunks":[["7","3","4"],["2","1","6"],["5","0"]],"unlocked":true,"starRating":3},{"chunks":[[null],[null],[null],[null],[null],[null]],"unlocked":false,"starRating":0}],"id":2,"skillPoints":27}],"playerId":6427013,"epilogue":{"rating":2},"sessionId":15,"avatar":{"name":"g","gender":0,"visualAvatar":0,"age":14,"levelSaveData":[{"starRating":3,"unlocked":true},{"chunks":[["1"],["0$$Gred","0$$angle"],["15","2","4"],["0"]],"unlocked":true,"starRating":3},{"chunks":[["1"],["1$$basketball","4$$football"],["5","2"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["4"],["6"],["0"],["0","4"],["6"]],"unlocked":true,"starRating":3},{"chunks":[["4"],["5"],["7","19"],["3"],["4"],["8"]],"unlocked":true,"starRating":3},{"chunks":[["5"],["6","4","4","5"],["8"],["3"]],"unlocked":true,"starRating":3},{"chunks":[["3"],["3"],["6","2"],["2","2"],["1"]],"unlocked":true,"starRating":3},{"chunks":[["7","4","6"],["0","5","2"],["0"],["0"],["2"]],"unlocked":true,"starRating":3},{"chunks":[["7","3","4"],["2","1","6"],["5","0"]],"unlocked":true,"starRating":3},{"chunks":[[null],[null],[null],[null],[null],[null]],"unlocked":false,"starRating":0}],"id":2,"skillPoints":27}}
