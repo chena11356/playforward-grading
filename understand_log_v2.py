@@ -144,27 +144,48 @@ def finalResults(line):
     miniGameStars[str(level["starRating"])] += 1
   return [gameTime, miniGameStars, age, gender, skillPts]
 
-overallData = []
+overallData = {}
 
 fRead = open('all.txt', "r")
 
-currStudentID = None
+currIpadID = None
 logData = None
 
+
+# Read log data and populate overallData dictionary
 for line in fRead:
   csv = line.split(",")
   if (len(csv) == 1 and csv[0] == '\n'):
     continue
 
-  if (csv[0] != currStudentID and len(csv[0]) == 7):
+  if (csv[0] != currIpadID and len(csv[0]) == 7):
     # New student found 
     if logData:
-      overallData.append(logData)
-    currStudentID = csv[0]
+      overallData[logData['ipadID']] = logData
+    currIpadID = csv[0]
     if PRINT_ACTIONS:
-      logData = {'studentID': currStudentID, 'age': None, 'gender': None, 'overallSkillPts': 0, 'gameTime': 0, 'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}, 'actions': []}
+      logData = {
+        'patientID': None, 
+        'headerUID': None, 
+        'ipadID': currIpadID, 
+        'age': None, 
+        'gender': None, 
+        'overallSkillPts': 0, 
+        'gameTime': 0, 
+        'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}, 
+        'actions': []
+      }
     else:
-      logData = {'studentID': currStudentID, 'age': None, 'gender': None, 'overallSkillPts': 0, 'gameTime': 0, 'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}}
+      logData = {
+        'patientID': None, 
+        'headerUID': None, 
+        'ipadID': currIpadID, 
+        'age': None, 
+        'gender': None, 
+        'overallSkillPts': 0, 
+        'gameTime': 0, 
+        'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}
+      }
 
   if (PRINT_ACTIONS):
     logData['actions'].append(IDs[int(csv[1])])
@@ -183,10 +204,24 @@ for line in fRead:
     logData['overallSkillPts'] = max(logData['overallSkillPts'], overallSkillPts)
   
 fRead.close() 
-overallData.append(logData)
+overallData[logData['ipadID']] = logData
+
+# Open subject data to associate ipadID with patientID and header_UID for later analysis
+fRead = open('VGAME_SUBJLOC.csv', "r")
+for line in fRead:
+  csv = line.split(",")
+  patientID = csv[0]
+  headerUID = csv[1]
+  ipadID = csv[9]
+  if (len(ipadID) == 7 and ipadID in overallData):
+    overallData[ipadID]['patientID'] = patientID
+    overallData[ipadID]['headerUID'] = headerUID
+
+fRead.close()
 
 fWrite = open('data.txt', 'w+')
-for student in overallData:
-  jsonStudent = json.dumps(student)
-  fWrite.write(jsonStudent+'\n')
+for key in overallData:
+  if overallData[key]['patientID'] != None:
+    jsonStudent = json.dumps(overallData[key])
+    fWrite.write(jsonStudent+'\n')
 fWrite.close()
