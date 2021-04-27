@@ -219,9 +219,69 @@ for line in fRead:
 
 fRead.close()
 
-fWrite = open('data.txt', 'w+')
+# Populate experimentalData dictionary with data from S3 and S8
+experimentalData = {}
+
+S3 = open('S3Scores.csv', "r")
+for line in S3:
+  [patientID, headerUID, Phase_Name, Q20, Q21, Q22, Q23] = line.split(",")
+  if (Phase_Name == '3 Months'):
+    questionWeights = []
+    if (Q20 != '6'):
+      questionWeights.append(100 - 25 * (int(Q20) - 1))
+    if (Q21 != '6'):
+      questionWeights.append(100 - 25 * (int(Q21) - 1))
+    if (Q22 != '6'):
+      questionWeights.append(100 - 25 * (int(Q22) - 1))
+    if (Q23 != '6\n'):
+      questionWeights.append(25 * (int(Q23) - 1))
+
+    S3Weight = None
+    if (len(questionWeights) > 0):
+      S3Weight = sum(questionWeights) / len(questionWeights)
+
+    experimentalData[patientID] = {'S3Weight': S3Weight, 'S8Weight': -1}
+S3.close()
+
+S8 = open('S8Scores.csv', "r")
+for line in S8:
+  [patientID, Phase_Name, _, S8Total] = line.split(",")
+  if (S8Total == 'S8_Total\n'):
+    continue
+  if (Phase_Name == '3 Months'):
+    S8Total = S8Total.split('\n')[0]
+    S8Weight = 100 * (int(S8Total) / 22)
+    if (patientID in experimentalData):
+      experimentalData[patientID]['S8Weight'] = S8Weight
+    else:
+      print('oh no')
+S8.close()
+for key in experimentalData:
+  if (experimentalData[key]['S8Weight'] != -1):
+    overallWeight = None
+    if (experimentalData[key]['S3Weight'] != None):
+      if (experimentalData[key]['S8Weight'] != None):
+        overallWeight = ((experimentalData[key]['S3Weight'] + experimentalData[key]['S8Weight']) / 2)
+      else:
+        overallWeight = experimentalData[key]['S3Weight']
+    else:
+      if (experimentalData[key]['S8Weight'] != None):
+        overallWeight = experimentalData[key]['S8Weight']
+    experimentalData[key]['gradePercent'] = overallWeight
+
+fileWithGrades = open('dataGrades.txt', 'w+')
+fileWithoutGrades = open('dataNoGrades.txt', 'w+')
 for key in overallData:
   if overallData[key]['patientID'] != None:
-    jsonStudent = json.dumps(overallData[key])
-    fWrite.write(jsonStudent+'\n')
-fWrite.close()
+    studentData = overallData[key]
+    hasGrade = False
+    if studentData['patientID'] in experimentalData and 'gradePercent' in experimentalData[studentData['patientID']]:
+      studentData['gradePercent'] = experimentalData[studentData['patientID']]['gradePercent']
+      hasGrade = True
+    jsonStudent = json.dumps(studentData)
+    if (hasGrade):
+      fileWithGrades.write(jsonStudent+'\n')
+    else:
+      fileWithoutGrades.write(jsonStudent+'\n')
+fileWithGrades.close()
+fileWithoutGrades.close()
