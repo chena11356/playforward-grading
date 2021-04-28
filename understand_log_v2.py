@@ -166,7 +166,6 @@ for line in fRead:
     if PRINT_ACTIONS:
       logData = {
         'patientID': None, 
-        'headerUID': None, 
         'ipadID': currIpadID, 
         'age': None, 
         'gender': None, 
@@ -178,7 +177,6 @@ for line in fRead:
     else:
       logData = {
         'patientID': None, 
-        'headerUID': None, 
         'ipadID': currIpadID, 
         'age': None, 
         'gender': None, 
@@ -211,11 +209,9 @@ fRead = open('VGAME_SUBJLOC.csv', "r")
 for line in fRead:
   csv = line.split(",")
   patientID = csv[0]
-  headerUID = csv[1]
   ipadID = csv[9]
   if (len(ipadID) == 7 and ipadID in overallData):
     overallData[ipadID]['patientID'] = patientID
-    overallData[ipadID]['headerUID'] = headerUID
 
 fRead.close()
 
@@ -283,5 +279,9 @@ for key in overallData:
       fileWithGrades.write(jsonStudent+'\n')
     else:
       fileWithoutGrades.write(jsonStudent+'\n')
+  else:
+    jsonStudent = json.dumps(overallData[key])
+    fileWithoutGrades.write(jsonStudent+'\n')
+
 fileWithGrades.close()
 fileWithoutGrades.close()
