@@ -327,6 +327,18 @@ for key in overallData:
     hasGrade = False
     if studentData['patientID'] in experimentalData and 'gradePercent' in experimentalData[studentData['patientID']]:
       studentData['gradePercent'] = experimentalData[studentData['patientID']]['gradePercent']
+      grade = None
+      if (studentData['gradePercent'] >= 90 and studentData['gradePercent'] <= 100):
+        grade = 'A'
+      elif (studentData['gradePercent'] >= 80 and studentData['gradePercent'] <= 89):
+        grade = 'B'
+      elif (studentData['gradePercent'] >= 70 and studentData['gradePercent'] <= 79):
+        grade = 'C'
+      elif (studentData['gradePercent'] >= 60 and studentData['gradePercent'] <= 69):
+        grade = 'D'
+      else:
+        grade = 'E'
+      studentData['grade'] = grade
       hasGrade = True
     jsonStudent = json.dumps(studentData)
     if (hasGrade):
