@@ -6,12 +6,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 704277427,
-    "miniGameStars": {
-      "0": 54,
-      "1": 0,
-      "2": 0,
-      "3": 186
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGPAL00028",
@@ -20,12 +18,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 659658731,
-    "miniGameStars": {
-      "0": 43,
-      "1": 0,
-      "2": 0,
-      "3": 107
-    }
+    "miniGamesWith0Stars": 5,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 5
   },
   {
     "patientID": null,
@@ -34,12 +30,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 138731266,
-    "miniGameStars": {
-      "0": 30,
-      "1": 1,
-      "2": 0,
-      "3": 49
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGLEA00022",
@@ -48,12 +42,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 191435045,
-    "miniGameStars": {
-      "0": 56,
-      "1": 0,
-      "2": 0,
-      "3": 64
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00023",
@@ -62,12 +54,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 1804143465,
-    "miniGameStars": {
-      "0": 59,
-      "1": 0,
-      "2": 0,
-      "3": 61
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": null,
@@ -76,12 +66,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 174197419,
-    "miniGameStars": {
-      "0": 52,
-      "1": 0,
-      "2": 0,
-      "3": 58
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": null,
@@ -90,12 +78,10 @@
     "gender": "female",
     "overallSkillPts": 24,
     "gameTime": 1865831861,
-    "miniGameStars": {
-      "0": 62,
-      "1": 0,
-      "2": 0,
-      "3": 38
-    }
+    "miniGamesWith0Stars": 2,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 8
   },
   {
     "patientID": "VGPAL00008",
@@ -104,12 +90,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 277348383,
-    "miniGameStars": {
-      "0": 66,
-      "1": 0,
-      "2": 0,
-      "3": 64
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGPAL00021",
@@ -118,12 +102,10 @@
     "gender": "male",
     "overallSkillPts": 9,
     "gameTime": 58979999,
-    "miniGameStars": {
-      "0": 55,
-      "1": 0,
-      "2": 0,
-      "3": 15
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": null,
@@ -132,12 +114,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 118957994,
-    "miniGameStars": {
-      "0": 44,
-      "1": 0,
-      "2": 0,
-      "3": 46
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00049",
@@ -146,12 +126,10 @@
     "gender": "female",
     "overallSkillPts": 9,
     "gameTime": 46609472,
-    "miniGameStars": {
-      "0": 45,
-      "1": 0,
-      "2": 0,
-      "3": 15
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": "VGLEA00018",
@@ -160,12 +138,10 @@
     "gender": "female",
     "overallSkillPts": 9,
     "gameTime": 11331628,
-    "miniGameStars": {
-      "0": 15,
-      "1": 0,
-      "2": 0,
-      "3": 5
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": "VGLEA00048",
@@ -174,12 +150,10 @@
     "gender": "female",
     "overallSkillPts": 26,
     "gameTime": 352170482,
-    "miniGameStars": {
-      "0": 57,
-      "1": 0,
-      "2": 6,
-      "3": 107
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 1,
+    "miniGamesWith3Stars": 8
   },
   {
     "patientID": "VGPAL00007",
@@ -188,12 +162,10 @@
     "gender": "male",
     "overallSkillPts": 24,
     "gameTime": 204414444,
-    "miniGameStars": {
-      "0": 60,
-      "1": 0,
-      "2": 0,
-      "3": 50
-    }
+    "miniGamesWith0Stars": 2,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 8
   },
   {
     "patientID": null,
@@ -202,12 +174,10 @@
     "gender": "female",
     "overallSkillPts": 13,
     "gameTime": 5485160644,
-    "miniGameStars": {
-      "0": 162,
-      "1": 1,
-      "2": 0,
-      "3": 47
-    }
+    "miniGamesWith0Stars": 5,
+    "miniGamesWith1Star": 1,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": "VGPAL00001",
@@ -216,12 +186,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 339228339,
-    "miniGameStars": {
-      "0": 58,
-      "1": 0,
-      "2": 0,
-      "3": 92
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00068",
@@ -230,12 +198,10 @@
     "gender": "female",
     "overallSkillPts": 18,
     "gameTime": 216630533,
-    "miniGameStars": {
-      "0": 69,
-      "1": 0,
-      "2": 0,
-      "3": 41
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGLEA00069",
@@ -244,12 +210,10 @@
     "gender": "male",
     "overallSkillPts": 24,
     "gameTime": 37980576,
-    "miniGameStars": {
-      "0": 28,
-      "1": 0,
-      "2": 0,
-      "3": 22
-    }
+    "miniGamesWith0Stars": 2,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 8
   },
   {
     "patientID": "VGLEA00011",
@@ -258,12 +222,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 124854464,
-    "miniGameStars": {
-      "0": 18,
-      "1": 0,
-      "2": 0,
-      "3": 62
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGPAL00002",
@@ -272,12 +234,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 263934562,
-    "miniGameStars": {
-      "0": 54,
-      "1": 0,
-      "2": 0,
-      "3": 66
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGCLN00040",
@@ -286,12 +246,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 3380064320,
-    "miniGameStars": {
-      "0": 61,
-      "1": 0,
-      "2": 0,
-      "3": 139
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGCLN00043",
@@ -300,12 +258,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 6706146498,
-    "miniGameStars": {
-      "0": 53,
-      "1": 0,
-      "2": 0,
-      "3": 87
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGPAL00004",
@@ -314,12 +270,10 @@
     "gender": "female",
     "overallSkillPts": 15,
     "gameTime": 42467720,
-    "miniGameStars": {
-      "0": 35,
-      "1": 0,
-      "2": 0,
-      "3": 15
-    }
+    "miniGamesWith0Stars": 5,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 5
   },
   {
     "patientID": "VGWEX00001",
@@ -328,12 +282,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 5173909919,
-    "miniGameStars": {
-      "0": 79,
-      "1": 0,
-      "2": 0,
-      "3": 81
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGWEX00002",
@@ -342,12 +294,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 600237467,
-    "miniGameStars": {
-      "0": 100,
-      "1": 0,
-      "2": 0,
-      "3": 140
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGWEX00003",
@@ -356,12 +306,10 @@
     "gender": "male",
     "overallSkillPts": 18,
     "gameTime": 135881852,
-    "miniGameStars": {
-      "0": 56,
-      "1": 0,
-      "2": 0,
-      "3": 34
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGWEX00006",
@@ -370,12 +318,10 @@
     "gender": "female",
     "overallSkillPts": 21,
     "gameTime": 4474733663,
-    "miniGameStars": {
-      "0": 117,
-      "1": 0,
-      "2": 0,
-      "3": 63
-    }
+    "miniGamesWith0Stars": 3,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 7
   },
   {
     "patientID": "VGWEX00008",
@@ -384,12 +330,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 212083421,
-    "miniGameStars": {
-      "0": 71,
-      "1": 0,
-      "2": 0,
-      "3": 59
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGCLN00028",
@@ -398,12 +342,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 228117311,
-    "miniGameStars": {
-      "0": 40,
-      "1": 0,
-      "2": 0,
-      "3": 80
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGMTZ00011",
@@ -412,12 +354,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 370627909,
-    "miniGameStars": {
-      "0": 39,
-      "1": 0,
-      "2": 0,
-      "3": 101
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00067",
@@ -426,12 +366,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 201624258,
-    "miniGameStars": {
-      "0": 55,
-      "1": 0,
-      "2": 0,
-      "3": 55
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00033",
@@ -440,12 +378,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 200335259,
-    "miniGameStars": {
-      "0": 31,
-      "1": 0,
-      "2": 0,
-      "3": 79
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGFAR00010",
@@ -454,12 +390,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 187563965,
-    "miniGameStars": {
-      "0": 60,
-      "1": 0,
-      "2": 0,
-      "3": 60
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": null,
@@ -468,12 +402,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 425439129,
-    "miniGameStars": {
-      "0": 39,
-      "1": 0,
-      "2": 0,
-      "3": 131
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": null,
@@ -482,12 +414,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 207743056,
-    "miniGameStars": {
-      "0": 56,
-      "1": 0,
-      "2": 0,
-      "3": 64
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGMTZ00013",
@@ -496,12 +426,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 8141186525,
-    "miniGameStars": {
-      "0": 56,
-      "1": 0,
-      "2": 0,
-      "3": 84
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGCLN00032",
@@ -510,12 +438,10 @@
     "gender": "female",
     "overallSkillPts": 18,
     "gameTime": 2467367917,
-    "miniGameStars": {
-      "0": 85,
-      "1": 0,
-      "2": 0,
-      "3": 35
-    }
+    "miniGamesWith0Stars": 6,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": "VGHYC00005",
@@ -524,12 +450,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 77075392,
-    "miniGameStars": {
-      "0": 29,
-      "1": 0,
-      "2": 0,
-      "3": 31
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGCLN00039",
@@ -538,12 +462,10 @@
     "gender": "female",
     "overallSkillPts": 9,
     "gameTime": 17470297,
-    "miniGameStars": {
-      "0": 23,
-      "1": 0,
-      "2": 0,
-      "3": 7
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": "VGMTZ00010",
@@ -552,12 +474,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 92005256,
-    "miniGameStars": {
-      "0": 31,
-      "1": 0,
-      "2": 0,
-      "3": 49
-    }
+    "miniGamesWith0Stars": 6,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": "VGLEA00058",
@@ -566,12 +486,10 @@
     "gender": "male",
     "overallSkillPts": 18,
     "gameTime": 173496197,
-    "miniGameStars": {
-      "0": 64,
-      "1": 0,
-      "2": 0,
-      "3": 36
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGFAR00007",
@@ -580,12 +498,10 @@
     "gender": "male",
     "overallSkillPts": 12,
     "gameTime": 139665543,
-    "miniGameStars": {
-      "0": 66,
-      "1": 0,
-      "2": 0,
-      "3": 24
-    }
+    "miniGamesWith0Stars": 6,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": null,
@@ -594,12 +510,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 259778788,
-    "miniGameStars": {
-      "0": 53,
-      "1": 0,
-      "2": 0,
-      "3": 67
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": null,
@@ -608,12 +522,10 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 231023993,
-    "miniGameStars": {
-      "0": 28,
-      "1": 0,
-      "2": 0,
-      "3": 72
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGMTZ00007",
@@ -622,12 +534,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 398076363,
-    "miniGameStars": {
-      "0": 40,
-      "1": 0,
-      "2": 0,
-      "3": 140
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGCLN00034",
@@ -636,12 +546,10 @@
     "gender": "male",
     "overallSkillPts": 18,
     "gameTime": 31886662,
-    "miniGameStars": {
-      "0": 19,
-      "1": 0,
-      "2": 0,
-      "3": 11
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGHYC00001",
@@ -650,12 +558,10 @@
     "gender": "female",
     "overallSkillPts": 9,
     "gameTime": 3041398203,
-    "miniGameStars": {
-      "0": 47,
-      "1": 0,
-      "2": 0,
-      "3": 13
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": "VGPAL00010",
@@ -664,12 +570,10 @@
     "gender": "male",
     "overallSkillPts": 12,
     "gameTime": 225276017,
-    "miniGameStars": {
-      "0": 90,
-      "1": 0,
-      "2": 0,
-      "3": 30
-    }
+    "miniGamesWith0Stars": 6,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": "VGCLN00026",
@@ -678,12 +582,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 235524451,
-    "miniGameStars": {
-      "0": 36,
-      "1": 0,
-      "2": 0,
-      "3": 94
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGLEA00038",
@@ -692,12 +594,10 @@
     "gender": "male",
     "overallSkillPts": 18,
     "gameTime": 259528561,
-    "miniGameStars": {
-      "0": 82,
-      "1": 0,
-      "2": 0,
-      "3": 58
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": null,
@@ -706,12 +606,10 @@
     "gender": "male",
     "overallSkillPts": 24,
     "gameTime": 596137704,
-    "miniGameStars": {
-      "0": 42,
-      "1": 0,
-      "2": 0,
-      "3": 28
-    }
+    "miniGamesWith0Stars": 2,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 8
   },
   {
     "patientID": "VGLEA00028",
@@ -720,12 +618,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 509572387,
-    "miniGameStars": {
-      "0": 12,
-      "1": 0,
-      "2": 0,
-      "3": 28
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGFAR00001",
@@ -734,12 +630,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 147302511,
-    "miniGameStars": {
-      "0": 29,
-      "1": 0,
-      "2": 0,
-      "3": 61
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGLEA00024",
@@ -748,12 +642,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 320950949,
-    "miniGameStars": {
-      "0": 107,
-      "1": 0,
-      "2": 0,
-      "3": 73
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGLEA00052",
@@ -762,12 +654,10 @@
     "gender": "male",
     "overallSkillPts": 18,
     "gameTime": 291549691,
-    "miniGameStars": {
-      "0": 76,
-      "1": 0,
-      "2": 0,
-      "3": 54
-    }
+    "miniGamesWith0Stars": 4,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 6
   },
   {
     "patientID": "VGLEA00034",
@@ -776,12 +666,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 379452137,
-    "miniGameStars": {
-      "0": 51,
-      "1": 0,
-      "2": 0,
-      "3": 99
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGMTZ00001",
@@ -790,12 +678,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 296838890,
-    "miniGameStars": {
-      "0": 97,
-      "1": 0,
-      "2": 0,
-      "3": 53
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGCLN00027",
@@ -804,12 +690,10 @@
     "gender": "male",
     "overallSkillPts": 21,
     "gameTime": 184297993,
-    "miniGameStars": {
-      "0": 80,
-      "1": 0,
-      "2": 0,
-      "3": 40
-    }
+    "miniGamesWith0Stars": 3,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 7
   },
   {
     "patientID": "VGHYC00010",
@@ -818,12 +702,10 @@
     "gender": "male",
     "overallSkillPts": 27,
     "gameTime": 1302019563,
-    "miniGameStars": {
-      "0": 32,
-      "1": 0,
-      "2": 0,
-      "3": 38
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGPAL00015",
@@ -832,12 +714,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 217327800,
-    "miniGameStars": {
-      "0": 46,
-      "1": 0,
-      "2": 0,
-      "3": 84
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": null,
@@ -846,12 +726,10 @@
     "gender": "female",
     "overallSkillPts": 9,
     "gameTime": 462655403,
-    "miniGameStars": {
-      "0": 38,
-      "1": 0,
-      "2": 0,
-      "3": 12
-    }
+    "miniGamesWith0Stars": 7,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 3
   },
   {
     "patientID": "VGMTZ00004",
@@ -860,12 +738,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 1252089092,
-    "miniGameStars": {
-      "0": 19,
-      "1": 0,
-      "2": 0,
-      "3": 101
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": null,
@@ -874,12 +750,10 @@
     "gender": "male",
     "overallSkillPts": 6,
     "gameTime": 3922597,
-    "miniGameStars": {
-      "0": 8,
-      "1": 0,
-      "2": 0,
-      "3": 2
-    }
+    "miniGamesWith0Stars": 8,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 2
   },
   {
     "patientID": "VGLEA00040",
@@ -888,12 +762,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 190546901,
-    "miniGameStars": {
-      "0": 30,
-      "1": 1,
-      "2": 0,
-      "3": 89
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   },
   {
     "patientID": "VGFAR00002",
@@ -902,12 +774,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 196009504,
-    "miniGameStars": {
-      "0": 40,
-      "1": 0,
-      "2": 0,
-      "3": 70
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGFAR00005",
@@ -916,12 +786,10 @@
     "gender": "female",
     "overallSkillPts": 30,
     "gameTime": 208485868,
-    "miniGameStars": {
-      "0": 48,
-      "1": 0,
-      "2": 0,
-      "3": 132
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGLEA00047",
@@ -930,12 +798,10 @@
     "gender": "male",
     "overallSkillPts": 12,
     "gameTime": 188998629,
-    "miniGameStars": {
-      "0": 65,
-      "1": 0,
-      "2": 0,
-      "3": 25
-    }
+    "miniGamesWith0Stars": 6,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 4
   },
   {
     "patientID": "VGLEA00055",
@@ -944,12 +810,10 @@
     "gender": "male",
     "overallSkillPts": 30,
     "gameTime": 198877181,
-    "miniGameStars": {
-      "0": 22,
-      "1": 0,
-      "2": 0,
-      "3": 78
-    }
+    "miniGamesWith0Stars": 0,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 10
   },
   {
     "patientID": "VGMTZ00002",
@@ -958,11 +822,9 @@
     "gender": "female",
     "overallSkillPts": 27,
     "gameTime": 258526486,
-    "miniGameStars": {
-      "0": 74,
-      "1": 0,
-      "2": 0,
-      "3": 46
-    }
+    "miniGamesWith0Stars": 1,
+    "miniGamesWith1Star": 0,
+    "miniGamesWith2Stars": 0,
+    "miniGamesWith3Stars": 9
   }
 ]

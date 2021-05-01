@@ -202,7 +202,10 @@ for line in fRead:
         'gender': None, 
         'overallSkillPts': 0, 
         'gameTime': 0, 
-        'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}, 
+        'miniGamesWith0Stars': 0, 
+        'miniGamesWith1Star': 0, 
+        'miniGamesWith2Stars': 0, 
+        'miniGamesWith3Stars': 0, 
         'actions': []
       }
     else:
@@ -213,7 +216,10 @@ for line in fRead:
         'gender': None, 
         'overallSkillPts': 0, 
         'gameTime': 0, 
-        'miniGameStars': {'0': 0, '1': 0, '2': 0, '3': 0}
+        'miniGamesWith0Stars': 0, 
+        'miniGamesWith1Star': 0, 
+        'miniGamesWith2Stars': 0, 
+        'miniGamesWith3Stars': 0, 
       }
 
   if (PRINT_ACTIONS):
@@ -224,8 +230,10 @@ for line in fRead:
     [gameTime, miniGamesStars, age, gender, overallSkillPts] = finalResults(csv)
     # Combine session results with previous ones, if they exist
     logData['gameTime'] = logData['gameTime'] + gameTime
-    for rating in miniGamesStars:
-      logData['miniGameStars'][str(rating)] += miniGamesStars[str(rating)]
+    logData['miniGamesWith0Stars'] = miniGamesStars['0']
+    logData['miniGamesWith1Star'] = miniGamesStars['1']
+    logData['miniGamesWith2Stars'] = miniGamesStars['2']
+    logData['miniGamesWith3Stars'] = miniGamesStars['3']
     if (logData['age'] == None):
       logData['age'] = age
     if (logData['gender'] == None):
