@@ -319,8 +319,8 @@ for key in experimentalData:
       overallWeight = weighted_average(weights)
     experimentalData[key]['gradePercent'] = overallWeight
 
-fileWithGrades = open('dataGrades.txt', 'w+')
-fileWithoutGrades = open('dataNoGrades.txt', 'w+')
+studentsWithGrades = []
+studentsWithoutGrades = []
 for key in overallData:
   if overallData[key]['patientID'] != None:
     studentData = overallData[key]
@@ -340,14 +340,17 @@ for key in overallData:
         grade = 'E'
       studentData['grade'] = grade
       hasGrade = True
-    jsonStudent = json.dumps(studentData)
     if (hasGrade):
-      fileWithGrades.write(jsonStudent+'\n')
+      studentsWithGrades.append(studentData)
     else:
-      fileWithoutGrades.write(jsonStudent+'\n')
+      studentsWithoutGrades.append(studentData)
   else:
-    jsonStudent = json.dumps(overallData[key])
-    fileWithoutGrades.write(jsonStudent+'\n')
+    studentsWithoutGrades.append(overallData[key])
 
+fileWithGrades = open('dataGrades.json', 'w+')
+fileWithGrades.write(json.dumps(studentsWithGrades))
 fileWithGrades.close()
+
+fileWithoutGrades = open('dataNoGrades.json', 'w+')
+fileWithoutGrades.write(json.dumps(studentsWithoutGrades))
 fileWithoutGrades.close()
