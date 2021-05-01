@@ -144,6 +144,37 @@ def finalResults(line):
     miniGameStars[str(level["starRating"])] += 1
   return [gameTime, miniGameStars, age, gender, skillPts]
 
+def S4_8Answers(ever, recent):
+  weight = None
+  ever = int(ever)
+  recent = int(recent)
+  if ever == 1:
+      if recent != 8 and recent != 8888: 
+        weight = max(0, 100 - 20*(recent-1))
+  elif ever == 2:
+        weight = 100
+  return weight
+
+def S4_3Answers(ever, recent):
+  weight = None
+  ever = int(ever)
+  recent = int(recent)
+  if ever == 1:
+      if recent != 3 and recent != 8888: 
+        weight = 100*(recent - 1)
+  elif ever == 2:
+        weight = 100
+  return weight
+
+def weighted_average(inputs):
+  distribution = []
+  weights = []
+  for inp in inputs:
+    distribution.append(inp[0])
+    weights.append(inp[1])
+  return round(sum([distribution[i]*weights[i] for i in range(len(distribution))])/sum(weights),2)
+
+
 overallData = {}
 
 fRead = open('all.txt', "r")
@@ -215,7 +246,7 @@ for line in fRead:
 
 fRead.close()
 
-# Populate experimentalData dictionary with data from S3 and S8
+# Populate experimentalData dictionary with data from S3, S4, and S8
 experimentalData = {}
 
 S3 = open('S3Scores.csv', "r")
@@ -236,8 +267,35 @@ for line in S3:
     if (len(questionWeights) > 0):
       S3Weight = sum(questionWeights) / len(questionWeights)
 
-    experimentalData[patientID] = {'S3Weight': S3Weight, 'S8Weight': -1}
+    experimentalData[patientID] = {'S3Weight': S3Weight, 'S4Weight': -1, 'S8Weight': -1}
 S3.close()
+
+S4 = open('S4Scores.csv', "r")
+for line in S4:
+  [patientID, Phase_Name, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q19, Q20] = line.split(",")
+  if (Phase_Name == '3 Months'):
+    questionWeights = []
+    questionWeights.append(S4_8Answers(Q1, Q3))
+    questionWeights.append(S4_8Answers(Q4, Q6))
+    Q7_Weight = None
+    if int(Q7) != 5:
+        Q7_Weight = 100 - 25 * (int(Q7)-1)
+    questionWeights.append(Q7_Weight)
+    questionWeights.append(S4_3Answers(Q8, Q9))
+    questionWeights.append(S4_3Answers(Q10, Q11))
+    questionWeights.append(S4_3Answers(Q12, Q13))
+    questionWeights.append(S4_3Answers(Q14, Q15))
+    questionWeights.append(S4_3Answers(Q16, Q17))
+    questionWeights.append(S4_3Answers(Q18, Q19))
+    questionWeights = [weight for weight in questionWeights if weight is not None]
+    
+    S4Weight = None
+    if (len(questionWeights) > 0):
+      S4Weight = sum(questionWeights) / len(questionWeights)
+
+    if (patientID in experimentalData):
+      experimentalData[patientID]['S4Weight'] = S4Weight
+S4.close()
 
 S8 = open('S8Scores.csv', "r")
 for line in S8:
@@ -249,20 +307,16 @@ for line in S8:
     S8Weight = 100 * (int(S8Total) / 22)
     if (patientID in experimentalData):
       experimentalData[patientID]['S8Weight'] = S8Weight
-    else:
-      print('oh no')
 S8.close()
+
 for key in experimentalData:
-  if (experimentalData[key]['S8Weight'] != -1):
+  if (experimentalData[key]['S8Weight'] != -1 and experimentalData[key]['S4Weight'] != -1):
     overallWeight = None
-    if (experimentalData[key]['S3Weight'] != None):
-      if (experimentalData[key]['S8Weight'] != None):
-        overallWeight = ((experimentalData[key]['S3Weight'] + experimentalData[key]['S8Weight']) / 2)
-      else:
-        overallWeight = experimentalData[key]['S3Weight']
-    else:
-      if (experimentalData[key]['S8Weight'] != None):
-        overallWeight = experimentalData[key]['S8Weight']
+    weights = [[experimentalData[key]['S3Weight'], 4], [experimentalData[key]['S4Weight'], 17], [experimentalData[key]['S8Weight'], 22]]
+    weightsWithoutNone = []
+    weights = [weight for weight in weights if weight[0] is not None]
+    if len(weights) > 0:
+      overallWeight = weighted_average(weights)
     experimentalData[key]['gradePercent'] = overallWeight
 
 fileWithGrades = open('dataGrades.txt', 'w+')
