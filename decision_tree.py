@@ -33,6 +33,7 @@ graph.write_png('mydecisiontree.png')
 
 img=pltimg.imread('mydecisiontree.png')
 
+
 # Import unsupervised data from json
 df2 = pandas.read_json("dataNoGrades.json")
 d = {'male': 0, 'female': 1}
@@ -41,6 +42,7 @@ df2['gender'] = df2['gender'].map(d)
 # Iterate through unsupervised data and predict grades 
 gradeByIndex = {'0': 'A', '1': 'B', '2': 'C', '3': 'D', '4': 'E'}
 jsonData = []
+printableResults = {'A': 0, 'B': 0, 'C': 0, 'D':0, 'E': 0}
 for index, row in df2.iterrows():
   gradeIndex = dtree.predict([[row['age'], row['gender'], row['overallSkillPts'], row['gameTime'], row['miniGamesWith0Stars'], row['miniGamesWith1Star'], row['miniGamesWith2Stars'], row['miniGamesWith3Stars']]])
   grade = gradeByIndex[str(gradeIndex[0])]
@@ -57,7 +59,11 @@ for index, row in df2.iterrows():
         'miniGamesWith3Stars': row['miniGamesWith3Stars'], 
         'grade': grade
       })
+  printableResults[grade] += 1
 
 f = open('generatedGradeData.json', 'w+')
 f.write(json.dumps(jsonData))
 f.close()
+
+for key in printableResults:
+  print(key, printableResults[key])
